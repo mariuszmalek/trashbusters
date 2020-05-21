@@ -47,7 +47,7 @@ class HTMLTest extends TestCase
      */
     public function testOGSiteName(){
       $this->get('/')
-           ->assertSee('<meta property="og:site_name" content="Roast and Brew" />');
+           ->assertSee('<meta property="og:site_name" content="Trashbusters" />');
     }
 
     /**
@@ -101,7 +101,7 @@ class HTMLTest extends TestCase
      public function testTwitterDescription()
      {
          $this->get('/')
-              ->assertSee('<meta name="twitter:description" content="Welcome to Roast and Brew! We help the coffee enthusiast find their next cup of coffee and teach developers how to develop apps!" />');
+              ->assertSee('<meta name="twitter:description" content="Welcome to Trashbusters! We help the coffee enthusiast find their next cup of coffee and teach developers how to develop apps!" />');
      }
 
      /**
@@ -146,7 +146,7 @@ class HTMLTest extends TestCase
             ->assertSee('"@type":"WebSite"')
             ->assertSee('"@id":"#website"')
             ->assertSee('"url":"https:\/\/roastandbrew.coffee\/')
-            ->assertSee('"name":"Roast And Brew"');
+            ->assertSee('"name":"Trashbusters"');
     }
 
     /**
@@ -160,7 +160,7 @@ class HTMLTest extends TestCase
            ->assertSee('"https:\/\/www.facebook.com/roastandbrewcoffee\/"')
            ->assertSee('"https:\/\/twitter.com\/roast_n_brew"')
            ->assertSee('"@id":"https:\/\/roastandbrew.coffee\/#organization"')
-           ->assertSee('"name":"Roast And Brew"')
+           ->assertSee('"name":"Trashbusters"')
            ->assertSee('"logo":"https:\/\/roastandbrew.coffee\/img\/og-roast.jpg"');
     }
 }

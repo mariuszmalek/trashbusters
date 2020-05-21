@@ -11,11 +11,14 @@
     left: 0;
     right: 0;
 
-    img.logo{
+    .logo{
       margin: auto;
-      margin-top: 22.5px;
+      margin-top: 20px;
       margin-bottom: 22.5px;
       display: block;
+      font-size: 25px;
+      font-weight: 600;
+      color: #cd8c00;
     }
 
     img.hamburger{
