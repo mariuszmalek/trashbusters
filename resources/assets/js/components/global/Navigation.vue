@@ -84,6 +84,13 @@
       }
     }
 
+    .chevron-lang {
+      transform: rotateZ(90deg);
+      width: 6px;
+      /* color: black; */
+      margin: 5px;
+    }
+
     .logo{
       margin: auto;
       margin-top: 20px;
@@ -232,7 +239,7 @@
         </router-link>
 
         <div class="language dropdown">
-          <span>PL</span>
+          <span>PL <img src="/img/chevron-right.svg" class="chevron-active"></span>
           <div class="dropdown-content">
             <a href="#">Link 1</a>
             <a href="#">Link 1</a>
