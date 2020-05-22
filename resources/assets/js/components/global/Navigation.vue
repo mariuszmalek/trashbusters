@@ -88,7 +88,8 @@
       margin: auto;
       margin-top: 20px;
       margin-bottom: 22.5px;
-      display: block;
+      margin-right: 10px;
+      display: inline-block;
       font-size: 25px;
       font-weight: 600;
       color: #cd8c00;
@@ -129,6 +130,41 @@
     }
   }
 
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #f1f1f1}
+
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+  }
   /* Small only */
   @media screen and (max-width: 39.9375em) {
     nav.top-navigation{
@@ -192,8 +228,18 @@
       </div>
       <div class="large-4 medium-4 small-4 cell">
         <router-link :to="{ name: 'cafes'}">
-          <span class="logo">Thrasbusters</span>
+          <span class="logo">Trashbusters</span>
         </router-link>
+
+        <div class="language dropdown">
+          <span>PL</span>
+          <div class="dropdown-content">
+            <a href="#">Link 1</a>
+            <a href="#">Link 1</a>
+            <a href="#">Link 1</a>
+          </div>
+        </div>
+
       </div>
       <div class="large-4 medium-4 small-4 cell">
         <img class="hamburger" src="/img/hamburger.svg" v-on:click="setShowPopOut()"/>

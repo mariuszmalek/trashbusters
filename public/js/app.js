@@ -1728,6 +1728,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   /*
@@ -5874,6 +5875,52 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__event_bus_js__ = __webpack_require__("./resources/assets/js/event-bus.js");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -13892,7 +13939,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\nheader {\n  background-color: #FFFFFF;\n  height: 75px;\n  z-index: 9999;\n  position: absolute;\n  top: 0;\n  left: 0;\n  right: 0;\n}\nheader .logo {\n    margin: auto;\n    margin-top: 20px;\n    margin-bottom: 22.5px;\n    display: block;\n    font-size: 25px;\n    font-weight: 600;\n    color: #cd8c00;\n}\nheader img.hamburger {\n    float: right;\n    margin-right: 18px;\n    margin-top: 30px;\n    cursor: pointer;\n}\nheader img.avatar {\n    float: right;\n    margin-right: 20px;\n    width: 40px;\n    height: 40px;\n    border-radius: 20px;\n    margin-top: 18px;\n}\nheader:after {\n    content: \"\";\n    display: table;\n    clear: both;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\nnav.top-navigation span.login {\n    display: none;\n}\nnav.top-navigation img.hamburger {\n    margin-top: 26px;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
+exports.push([module.i, "\nheader {\n  background-color: #FFFFFF;\n  height: 75px;\n  z-index: 9999;\n  position: absolute;\n  top: 0;\n  left: 0;\n  right: 0;\n}\nheader .logo {\n    margin: auto;\n    margin-top: 20px;\n    margin-bottom: 22.5px;\n    margin-right: 10px;\n    display: inline-block;\n    font-size: 25px;\n    font-weight: 600;\n    color: #cd8c00;\n}\nheader img.hamburger {\n    float: right;\n    margin-right: 18px;\n    margin-top: 30px;\n    cursor: pointer;\n}\nheader img.avatar {\n    float: right;\n    margin-right: 20px;\n    width: 40px;\n    height: 40px;\n    border-radius: 20px;\n    margin-top: 18px;\n}\nheader:after {\n    content: \"\";\n    display: table;\n    clear: both;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\nnav.top-navigation span.login {\n    display: none;\n}\nnav.top-navigation img.hamburger {\n    margin-top: 26px;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
 
 // exports
 
@@ -13937,7 +13984,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\nnav.top-navigation {\n  background-color: #FFFFFF;\n  height: 75px;\n  -webkit-box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n          box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n  z-index: 9999;\n  position: fixed;\n  top: 0;\n  left: 0;\n  right: 0;\n}\nnav.top-navigation a.filters {\n    cursor: pointer;\n    color: #cd8c00;\n    width: 140px;\n    height: 45px;\n    border: 2px solid #cd8c00;\n    border-radius: 3px;\n    text-transform: uppercase;\n    display: block;\n    float: left;\n    text-align: center;\n    line-height: 41px;\n    margin-top: 15px;\n    margin-left: 20px;\n    font-family: \"Lato\", sans-serif;\n    font-weight: bold;\n    font-size: 16px;\n}\nnav.top-navigation a.filters img {\n      display: inline-block;\n      vertical-align: middle;\n      margin-right: 10px;\n      height: 13px;\n}\nnav.top-navigation a.filters img.list {\n        -webkit-transform: rotate(-90deg);\n                transform: rotate(-90deg);\n}\nnav.top-navigation a.filters img.chevron-active {\n      display: none;\n}\nnav.top-navigation a.filters.active {\n      background-color: #cd8c00;\n      color: white;\n}\nnav.top-navigation a.filters.active img.chevron {\n        display: none;\n}\nnav.top-navigation a.filters.active img.chevron-active {\n        display: inline-block;\n}\nnav.top-navigation a.filters.active img.chevron-active.list {\n          -webkit-transform: rotate(-90deg);\n                  transform: rotate(-90deg);\n}\nnav.top-navigation a.filters span.filter-count-active {\n      display: inline-block;\n      margin-left: 5px;\n}\nnav.top-navigation span.clear-filters {\n    font-size: 16px;\n    color: #054E7A;\n    font-family: \"Lato\", sans-serif;\n    cursor: pointer;\n    margin-left: 15px;\n    display: block;\n    float: left;\n    margin-top: 25px;\n}\nnav.top-navigation span.clear-filters img {\n      margin-right: 10px;\n      float: left;\n      margin-top: 6px;\n}\nnav.top-navigation .logo {\n    margin: auto;\n    margin-top: 20px;\n    margin-bottom: 22.5px;\n    display: block;\n    font-size: 25px;\n    font-weight: 600;\n    color: #cd8c00;\n}\nnav.top-navigation img.hamburger {\n    float: right;\n    margin-right: 18px;\n    margin-top: 30px;\n    cursor: pointer;\n}\nnav.top-navigation img.avatar {\n    float: right;\n    margin-right: 20px;\n    width: 40px;\n    height: 40px;\n    border-radius: 20px;\n    margin-top: 18px;\n}\nnav.top-navigation:after {\n    content: \"\";\n    display: table;\n    clear: both;\n}\nnav.top-navigation span.login {\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    text-transform: uppercase;\n    color: black;\n    font-weight: bold;\n    float: right;\n    margin-top: 27px;\n    margin-right: 15px;\n    cursor: pointer;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\nnav.top-navigation a.filters {\n    line-height: 31px;\n    margin-top: 20px;\n    width: 75px;\n    height: 35px;\n}\nnav.top-navigation a.filters img {\n      display: none;\n}\nnav.top-navigation a.filters.active img.chevron-active {\n      display: none;\n}\nnav.top-navigation span.clear-filters {\n    display: none;\n}\nnav.top-navigation span.login {\n    display: none;\n}\nnav.top-navigation img.hamburger {\n    margin-top: 26px;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
+exports.push([module.i, "\nnav.top-navigation {\n  background-color: #FFFFFF;\n  height: 75px;\n  -webkit-box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n          box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n  z-index: 9999;\n  position: fixed;\n  top: 0;\n  left: 0;\n  right: 0;\n}\nnav.top-navigation a.filters {\n    cursor: pointer;\n    color: #cd8c00;\n    width: 140px;\n    height: 45px;\n    border: 2px solid #cd8c00;\n    border-radius: 3px;\n    text-transform: uppercase;\n    display: block;\n    float: left;\n    text-align: center;\n    line-height: 41px;\n    margin-top: 15px;\n    margin-left: 20px;\n    font-family: \"Lato\", sans-serif;\n    font-weight: bold;\n    font-size: 16px;\n}\nnav.top-navigation a.filters img {\n      display: inline-block;\n      vertical-align: middle;\n      margin-right: 10px;\n      height: 13px;\n}\nnav.top-navigation a.filters img.list {\n        -webkit-transform: rotate(-90deg);\n                transform: rotate(-90deg);\n}\nnav.top-navigation a.filters img.chevron-active {\n      display: none;\n}\nnav.top-navigation a.filters.active {\n      background-color: #cd8c00;\n      color: white;\n}\nnav.top-navigation a.filters.active img.chevron {\n        display: none;\n}\nnav.top-navigation a.filters.active img.chevron-active {\n        display: inline-block;\n}\nnav.top-navigation a.filters.active img.chevron-active.list {\n          -webkit-transform: rotate(-90deg);\n                  transform: rotate(-90deg);\n}\nnav.top-navigation a.filters span.filter-count-active {\n      display: inline-block;\n      margin-left: 5px;\n}\nnav.top-navigation span.clear-filters {\n    font-size: 16px;\n    color: #054E7A;\n    font-family: \"Lato\", sans-serif;\n    cursor: pointer;\n    margin-left: 15px;\n    display: block;\n    float: left;\n    margin-top: 25px;\n}\nnav.top-navigation span.clear-filters img {\n      margin-right: 10px;\n      float: left;\n      margin-top: 6px;\n}\nnav.top-navigation .logo {\n    margin: auto;\n    margin-top: 20px;\n    margin-bottom: 22.5px;\n    margin-right: 10px;\n    display: inline-block;\n    font-size: 25px;\n    font-weight: 600;\n    color: #cd8c00;\n}\nnav.top-navigation img.hamburger {\n    float: right;\n    margin-right: 18px;\n    margin-top: 30px;\n    cursor: pointer;\n}\nnav.top-navigation img.avatar {\n    float: right;\n    margin-right: 20px;\n    width: 40px;\n    height: 40px;\n    border-radius: 20px;\n    margin-top: 18px;\n}\nnav.top-navigation:after {\n    content: \"\";\n    display: table;\n    clear: both;\n}\nnav.top-navigation span.login {\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    text-transform: uppercase;\n    color: black;\n    font-weight: bold;\n    float: right;\n    margin-top: 27px;\n    margin-right: 15px;\n    cursor: pointer;\n}\n.dropdown {\n  position: relative;\n  display: inline-block;\n}\n\n/* Dropdown Content (Hidden by Default) */\n.dropdown-content {\n  display: none;\n  position: absolute;\n  background-color: #f9f9f9;\n  min-width: 160px;\n  -webkit-box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);\n          box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);\n  z-index: 1;\n}\n\n/* Links inside the dropdown */\n.dropdown-content a {\n  color: black;\n  padding: 12px 16px;\n  text-decoration: none;\n  display: block;\n}\n\n/* Change color of dropdown links on hover */\n.dropdown-content a:hover {\n  background-color: #f1f1f1;\n}\n\n/* Show the dropdown menu on hover */\n.dropdown:hover .dropdown-content {\n  display: block;\n}\n\n/* Change the background color of the dropdown button when the dropdown content is shown */\n.dropdown:hover .dropbtn {\n  background-color: #3e8e41;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\nnav.top-navigation a.filters {\n    line-height: 31px;\n    margin-top: 20px;\n    width: 75px;\n    height: 35px;\n}\nnav.top-navigation a.filters img {\n      display: none;\n}\nnav.top-navigation a.filters.active img.chevron-active {\n      display: none;\n}\nnav.top-navigation span.clear-filters {\n    display: none;\n}\nnav.top-navigation span.login {\n    display: none;\n}\nnav.top-navigation img.hamburger {\n    margin-top: 26px;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
 
 // exports
 
@@ -66672,8 +66719,10 @@ var render = function() {
         { staticClass: "large-4 medium-4 small-4 cell" },
         [
           _c("router-link", { attrs: { to: { name: "cafes" } } }, [
-            _c("span", { staticClass: "logo" }, [_vm._v("Thrasbusters")])
-          ])
+            _c("span", { staticClass: "logo" }, [_vm._v("Trashbusters")])
+          ]),
+          _vm._v(" "),
+          _vm._m(0)
         ],
         1
       ),
@@ -66722,7 +66771,24 @@ var render = function() {
     ])
   ])
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "language dropdown" }, [
+      _c("span", [_vm._v("PL")]),
+      _vm._v(" "),
+      _c("div", { staticClass: "dropdown-content" }, [
+        _c("a", { attrs: { href: "#" } }, [_vm._v("Link 1")]),
+        _vm._v(" "),
+        _c("a", { attrs: { href: "#" } }, [_vm._v("Link 1")]),
+        _vm._v(" "),
+        _c("a", { attrs: { href: "#" } }, [_vm._v("Link 1")])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 module.exports = { render: render, staticRenderFns: staticRenderFns }
 if (false) {
@@ -84922,10 +84988,10 @@ var google_maps_js_api = 'AIzaSyBB-yLlqyCE6s_MA30UotaCHttwUw5nKNY';
 */
 switch ("development") {
   case 'development':
-    api_url = 'https://roast.dev/api/v1';
+    api_url = 'http://127.0.0.1:8000/api/v1';
     break;
   case 'production':
-    api_url = 'https://roastandbrew.coffee/api/v1';
+    api_url = 'http://127.0.0.1:8000/api/v1';
     break;
 }
 

@@ -15,7 +15,8 @@
       margin: auto;
       margin-top: 20px;
       margin-bottom: 22.5px;
-      display: block;
+      margin-right: 10px;
+      display: inline-block;
       font-size: 25px;
       font-weight: 600;
       color: #cd8c00;
