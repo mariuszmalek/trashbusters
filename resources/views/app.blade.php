@@ -15,7 +15,7 @@
 
 		<link rel="icon" type="image/png" href="/favicon.png">
 
-		<title>Trashbusters - Helping the coffee enthusiast find their next cup of coffee</title>
+		<title>Trashbusters - @lang('meta')</title>
 		<meta name="description" content="Welcome to Trashbusters! We help the coffee enthusiast find their next cup of coffee and teach developers how to develop apps!"/>
 		<link rel="canonical" href="https://roastandbrew.coffee/" />
 		<meta property="og:locale" content="en_US" />

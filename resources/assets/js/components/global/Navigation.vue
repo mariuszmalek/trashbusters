@@ -239,11 +239,10 @@
         </router-link>
 
         <div class="language dropdown">
-          <span>PL <img src="/img/chevron-right.svg" class="chevron-active"></span>
+          <span>PL <img src="/img/chevron-right.svg" class="chevron-lang"></span>
           <div class="dropdown-content">
-            <a href="#">Link 1</a>
-            <a href="#">Link 1</a>
-            <a href="#">Link 1</a>
+            <a href="#">English</a>
+            <a href="#">Polski</a>
           </div>
         </div>
 

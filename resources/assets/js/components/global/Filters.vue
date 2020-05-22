@@ -175,7 +175,7 @@
 
       <div class="grid-x grid-padding-x">
         <div class="large-12 medium-12 small-12 cell">
-          <span class="filters-header">Find the type of coffee shop you are looking for!</span>
+          <span class="filters-header">Test</span>
         </div>
       </div>
 
@@ -200,9 +200,9 @@
             <div class="location-filter all-locations" v-bind:class="{ 'active': activeLocationFilter == 'all' }" v-on:click="setActiveLocationFilter('all')">
               All Locations
             </div><div class="location-filter roasters" v-bind:class="{ 'active': activeLocationFilter == 'roasters' }" v-on:click="setActiveLocationFilter('roasters')">
-              Roasters
+              Events
             </div><div class="location-filter cafes" v-bind:class="{ 'active': activeLocationFilter == 'cafes' }" v-on:click="setActiveLocationFilter('cafes')">
-              Cafes
+              Trash place
             </div>
           </div>
         </div>

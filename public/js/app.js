@@ -6133,7 +6133,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
 
 /*
   Imports the event bus.
@@ -63987,9 +63986,7 @@ var render = function() {
         _vm._v(" "),
         _c("div", { staticClass: "grid-x grid-padding-x" }, [
           _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-            _c("span", { staticClass: "filters-header" }, [
-              _vm._v("Find the type of coffee shop you are looking for!")
-            ])
+            _c("span", { staticClass: "filters-header" }, [_vm._v("Test")])
           ])
         ]),
         _vm._v(" "),
@@ -64085,7 +64082,7 @@ var render = function() {
                     }
                   }
                 },
-                [_vm._v("\n            Roasters\n          ")]
+                [_vm._v("\n            Events\n          ")]
               ),
               _c(
                 "div",
@@ -64098,7 +64095,7 @@ var render = function() {
                     }
                   }
                 },
-                [_vm._v("\n            Cafes\n          ")]
+                [_vm._v("\n            Trash place\n          ")]
               )
             ])
           ])
@@ -66787,17 +66784,15 @@ var staticRenderFns = [
       _c("span", [
         _vm._v("PL "),
         _c("img", {
-          staticClass: "chevron-active",
+          staticClass: "chevron-lang",
           attrs: { src: "/img/chevron-right.svg" }
         })
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "dropdown-content" }, [
-        _c("a", { attrs: { href: "#" } }, [_vm._v("Link 1")]),
+        _c("a", { attrs: { href: "#" } }, [_vm._v("English")]),
         _vm._v(" "),
-        _c("a", { attrs: { href: "#" } }, [_vm._v("Link 1")]),
-        _vm._v(" "),
-        _c("a", { attrs: { href: "#" } }, [_vm._v("Link 1")])
+        _c("a", { attrs: { href: "#" } }, [_vm._v("Polski")])
       ])
     ])
   }
