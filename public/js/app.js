@@ -13435,7 +13435,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv#admin-brew-method label {\n  font-weight: bold;\n  color: black;\n  font-size: 16px;\n  margin-top: 15px;\n}\ndiv#admin-brew-method a.update-brew-method {\n  display: block;\n  width: 150px;\n  color: white;\n  background-color: #CCC;\n  text-align: center;\n  border-radius: 5px;\n  margin-top: 20px;\n  height: 45px;\n  line-height: 45px;\n  margin-bottom: 100px;\n}\ndiv#admin-brew-method img.brew-method-icon {\n  width: 50px;\n}\ndiv#admin-brew-method a.change-icon {\n  display: block;\n  margin-top: 10px;\n  color: #cd8c00;\n}\ndiv#admin-brew-method div.change-icon-modal {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-color: rgba(0, 0, 0, 0.6);\n  z-index: 99999;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box {\n    width: 100%;\n    max-width: 530px;\n    min-width: 320px;\n    padding: 20px;\n    background-color: #fff;\n    border: 1px solid #ddd;\n    -webkit-box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    border-radius: 4px;\n    font-size: 16px;\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    -webkit-transform: translate(-50%, -50%);\n            transform: translate(-50%, -50%);\n    max-height: 500px;\n    overflow-y: auto;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box label {\n      font-weight: bold;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box div.icon-selection-container {\n      margin-top: 10px;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box div.new-icon-container {\n      text-align: center;\n      cursor: pointer;\n      margin-bottom: 20px;\n      border-radius: 5px;\n      padding: 5px;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box div.new-icon-container.active {\n        background-color: #cd8c00;\n        color: white;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box div.new-icon-container img.new-icon {\n        display: block;\n        margin: auto;\n        margin-bottom: 10px;\n        height: 30px;\n}\n", ""]);
+exports.push([module.i, "\ndiv#admin-brew-method label {\n  font-weight: bold;\n  color: black;\n  font-size: 16px;\n  margin-top: 15px;\n}\ndiv#admin-brew-method a.update-brew-method {\n  display: block;\n  width: 150px;\n  color: white;\n  background-color: #CCC;\n  text-align: center;\n  border-radius: 5px;\n  margin-top: 20px;\n  height: 45px;\n  line-height: 45px;\n  margin-bottom: 100px;\n}\ndiv#admin-brew-method img.brew-method-icon {\n  width: 50px;\n}\ndiv#admin-brew-method a.change-icon {\n  display: block;\n  margin-top: 10px;\n  color: #2c9a38;\n}\ndiv#admin-brew-method div.change-icon-modal {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-color: rgba(0, 0, 0, 0.6);\n  z-index: 99999;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box {\n    width: 100%;\n    max-width: 530px;\n    min-width: 320px;\n    padding: 20px;\n    background-color: #fff;\n    border: 1px solid #ddd;\n    -webkit-box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    border-radius: 4px;\n    font-size: 16px;\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    -webkit-transform: translate(-50%, -50%);\n            transform: translate(-50%, -50%);\n    max-height: 500px;\n    overflow-y: auto;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box label {\n      font-weight: bold;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box div.icon-selection-container {\n      margin-top: 10px;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box div.new-icon-container {\n      text-align: center;\n      cursor: pointer;\n      margin-bottom: 20px;\n      border-radius: 5px;\n      padding: 5px;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box div.new-icon-container.active {\n        background-color: #2c9a38;\n        color: white;\n}\ndiv#admin-brew-method div.change-icon-modal div.modal-box div.new-icon-container img.new-icon {\n        display: block;\n        margin: auto;\n        margin-bottom: 10px;\n        height: 30px;\n}\n", ""]);
 
 // exports
 
@@ -13510,7 +13510,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv#new-cafe-page[data-v-17dd6284] {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-color: white;\n  z-index: 99999;\n  overflow: auto;\n}\ndiv#new-cafe-page img#back[data-v-17dd6284] {\n    float: right;\n    margin-top: 20px;\n    margin-right: 20px;\n}\ndiv#new-cafe-page .centered[data-v-17dd6284] {\n    margin: auto;\n}\ndiv#new-cafe-page h2.page-title[data-v-17dd6284] {\n    color: #342C0C;\n    font-size: 36px;\n    font-weight: 900;\n    font-family: \"Lato\", sans-serif;\n    margin-top: 60px;\n}\ndiv#new-cafe-page label.form-label[data-v-17dd6284] {\n    font-family: \"Lato\", sans-serif;\n    text-transform: uppercase;\n    font-weight: bold;\n    color: black;\n    margin-top: 10px;\n    margin-bottom: 10px;\n}\ndiv#new-cafe-page input[type=\"text\"].form-input[data-v-17dd6284] {\n    border: 1px solid #BABABA;\n    border-radius: 3px;\n}\ndiv#new-cafe-page input[type=\"text\"].form-input.invalid[data-v-17dd6284] {\n      border: 1px solid #D0021B;\n}\ndiv#new-cafe-page div.validation[data-v-17dd6284] {\n    color: #D0021B;\n    font-family: \"Lato\", sans-serif;\n    font-size: 14px;\n    margin-top: -15px;\n    margin-bottom: 15px;\n}\ndiv#new-cafe-page div.location-type[data-v-17dd6284] {\n    text-align: center;\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    width: 25%;\n    display: inline-block;\n    height: 55px;\n    line-height: 55px;\n    cursor: pointer;\n    margin-bottom: 5px;\n    margin-right: 10px;\n    background-color: #EEE;\n    color: #111111;\n}\ndiv#new-cafe-page div.location-type.active[data-v-17dd6284] {\n      color: white;\n      background-color: #cd8c00;\n}\ndiv#new-cafe-page div.location-type.roaster[data-v-17dd6284] {\n      border-top-left-radius: 3px;\n      border-bottom-left-radius: 3px;\n      border-right: 0px;\n}\ndiv#new-cafe-page div.location-type.cafe[data-v-17dd6284] {\n      border-top-right-radius: 3px;\n      border-bottom-right-radius: 3px;\n}\ndiv#new-cafe-page div.company-selection-container[data-v-17dd6284] {\n    position: relative;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container[data-v-17dd6284] {\n      border-radius: 3px;\n      border: 1px solid #BABABA;\n      background-color: white;\n      margin-top: -17px;\n      width: 80%;\n      position: absolute;\n      z-index: 9999;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete[data-v-17dd6284] {\n        cursor: pointer;\n        padding-left: 12px;\n        padding-right: 12px;\n        padding-top: 8px;\n        padding-bottom: 8px;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete span.company-name[data-v-17dd6284] {\n          display: block;\n          color: #0D223F;\n          font-size: 16px;\n          font-family: \"Lato\", sans-serif;\n          font-weight: bold;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete span.company-locations[data-v-17dd6284] {\n          display: block;\n          font-size: 14px;\n          color: #676767;\n          font-family: \"Lato\", sans-serif;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete[data-v-17dd6284]:hover {\n          background-color: #F2F2F2;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.new-company[data-v-17dd6284] {\n        cursor: pointer;\n        padding-left: 12px;\n        padding-right: 12px;\n        padding-top: 8px;\n        padding-bottom: 8px;\n        font-family: \"Lato\", sans-serif;\n        color: #054E7A;\n        font-style: italic;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.new-company[data-v-17dd6284]:hover {\n          background-color: #F2F2F2;\n}\ndiv#new-cafe-page a.edit-location-button[data-v-17dd6284] {\n    display: block;\n    text-align: center;\n    height: 50px;\n    color: white;\n    border-radius: 3px;\n    font-size: 18px;\n    font-family: \"Lato\", sans-serif;\n    background-color: #A7BE4D;\n    line-height: 50px;\n    margin-bottom: 10px;\n}\ndiv#new-cafe-page a.delete-location[data-v-17dd6284] {\n    color: #D0021B;\n    font-size: 14px;\n    text-decoration: underline;\n    display: inline-block;\n    margin-bottom: 50px;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\ndiv#new-cafe-page div.location-type[data-v-17dd6284] {\n    width: 50%;\n}\n}\n", ""]);
+exports.push([module.i, "\ndiv#new-cafe-page[data-v-17dd6284] {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-color: white;\n  z-index: 99999;\n  overflow: auto;\n}\ndiv#new-cafe-page img#back[data-v-17dd6284] {\n    float: right;\n    margin-top: 20px;\n    margin-right: 20px;\n}\ndiv#new-cafe-page .centered[data-v-17dd6284] {\n    margin: auto;\n}\ndiv#new-cafe-page h2.page-title[data-v-17dd6284] {\n    color: #342C0C;\n    font-size: 36px;\n    font-weight: 900;\n    font-family: \"Lato\", sans-serif;\n    margin-top: 60px;\n}\ndiv#new-cafe-page label.form-label[data-v-17dd6284] {\n    font-family: \"Lato\", sans-serif;\n    text-transform: uppercase;\n    font-weight: bold;\n    color: black;\n    margin-top: 10px;\n    margin-bottom: 10px;\n}\ndiv#new-cafe-page input[type=\"text\"].form-input[data-v-17dd6284] {\n    border: 1px solid #BABABA;\n    border-radius: 3px;\n}\ndiv#new-cafe-page input[type=\"text\"].form-input.invalid[data-v-17dd6284] {\n      border: 1px solid #D0021B;\n}\ndiv#new-cafe-page div.validation[data-v-17dd6284] {\n    color: #D0021B;\n    font-family: \"Lato\", sans-serif;\n    font-size: 14px;\n    margin-top: -15px;\n    margin-bottom: 15px;\n}\ndiv#new-cafe-page div.location-type[data-v-17dd6284] {\n    text-align: center;\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    width: 25%;\n    display: inline-block;\n    height: 55px;\n    line-height: 55px;\n    cursor: pointer;\n    margin-bottom: 5px;\n    margin-right: 10px;\n    background-color: #EEE;\n    color: #111111;\n}\ndiv#new-cafe-page div.location-type.active[data-v-17dd6284] {\n      color: white;\n      background-color: #2c9a38;\n}\ndiv#new-cafe-page div.location-type.roaster[data-v-17dd6284] {\n      border-top-left-radius: 3px;\n      border-bottom-left-radius: 3px;\n      border-right: 0px;\n}\ndiv#new-cafe-page div.location-type.cafe[data-v-17dd6284] {\n      border-top-right-radius: 3px;\n      border-bottom-right-radius: 3px;\n}\ndiv#new-cafe-page div.company-selection-container[data-v-17dd6284] {\n    position: relative;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container[data-v-17dd6284] {\n      border-radius: 3px;\n      border: 1px solid #BABABA;\n      background-color: white;\n      margin-top: -17px;\n      width: 80%;\n      position: absolute;\n      z-index: 9999;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete[data-v-17dd6284] {\n        cursor: pointer;\n        padding-left: 12px;\n        padding-right: 12px;\n        padding-top: 8px;\n        padding-bottom: 8px;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete span.company-name[data-v-17dd6284] {\n          display: block;\n          color: #0D223F;\n          font-size: 16px;\n          font-family: \"Lato\", sans-serif;\n          font-weight: bold;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete span.company-locations[data-v-17dd6284] {\n          display: block;\n          font-size: 14px;\n          color: #676767;\n          font-family: \"Lato\", sans-serif;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete[data-v-17dd6284]:hover {\n          background-color: #F2F2F2;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.new-company[data-v-17dd6284] {\n        cursor: pointer;\n        padding-left: 12px;\n        padding-right: 12px;\n        padding-top: 8px;\n        padding-bottom: 8px;\n        font-family: \"Lato\", sans-serif;\n        color: #054E7A;\n        font-style: italic;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.new-company[data-v-17dd6284]:hover {\n          background-color: #F2F2F2;\n}\ndiv#new-cafe-page a.edit-location-button[data-v-17dd6284] {\n    display: block;\n    text-align: center;\n    height: 50px;\n    color: white;\n    border-radius: 3px;\n    font-size: 18px;\n    font-family: \"Lato\", sans-serif;\n    background-color: #A7BE4D;\n    line-height: 50px;\n    margin-bottom: 10px;\n}\ndiv#new-cafe-page a.delete-location[data-v-17dd6284] {\n    color: #D0021B;\n    font-size: 14px;\n    text-decoration: underline;\n    display: inline-block;\n    margin-bottom: 50px;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\ndiv#new-cafe-page div.location-type[data-v-17dd6284] {\n    width: 50%;\n}\n}\n", ""]);
 
 // exports
 
@@ -13585,7 +13585,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\nnav.admin-navigation div.admin-link {\n  font-size: 16px;\n  font-weight: bold;\n  font-family: \"Lato\", sans-serif;\n  text-transform: uppercase;\n  padding-top: 15px;\n  padding-bottom: 15px;\n}\nnav.admin-navigation div.admin-link a {\n    color: black;\n}\nnav.admin-navigation div.admin-link a.router-link-active {\n      color: #cd8c00;\n}\n", ""]);
+exports.push([module.i, "\nnav.admin-navigation div.admin-link {\n  font-size: 16px;\n  font-weight: bold;\n  font-family: \"Lato\", sans-serif;\n  text-transform: uppercase;\n  padding-top: 15px;\n  padding-bottom: 15px;\n}\nnav.admin-navigation div.admin-link a {\n    color: black;\n}\nnav.admin-navigation div.admin-link a.router-link-active {\n      color: #2c9a38;\n}\n", ""]);
 
 // exports
 
@@ -13600,7 +13600,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv#admin-company label {\n  font-weight: bold;\n  color: black;\n  font-size: 16px;\n  margin-top: 15px;\n}\ndiv#admin-company div.cafes-header {\n  font-family: \"Lato\", sans-serif;\n  border-bottom: 1px solid black;\n  font-weight: bold;\n  padding-bottom: 10px;\n}\ndiv#admin-company div.user-selection-container {\n  position: relative;\n  margin-top: 20px;\n}\ndiv#admin-company div.user-selection-container div.user-autocomplete-container {\n    border-radius: 3px;\n    border: 1px solid #BABABA;\n    background-color: white;\n    margin-top: -17px;\n    width: 80%;\n    position: absolute;\n    z-index: 9999;\n}\ndiv#admin-company div.user-selection-container div.user-autocomplete-container div.user-autocomplete {\n      cursor: pointer;\n      padding-left: 12px;\n      padding-right: 12px;\n      padding-top: 8px;\n      padding-bottom: 8px;\n}\ndiv#admin-company div.user-selection-container div.user-autocomplete-container div.user-autocomplete span.user-name {\n        display: block;\n        color: #0D223F;\n        font-size: 16px;\n        font-family: \"Lato\", sans-serif;\n        font-weight: bold;\n}\ndiv#admin-company div.user-selection-container div.user-autocomplete-container div.user-autocomplete:hover {\n        background-color: #F2F2F2;\n}\ndiv#admin-company div.location-type {\n  display: inline-block;\n  margin-right: 10px;\n  cursor: pointer;\n  background-color: #CCC;\n}\ndiv#admin-company div.location-type.active {\n    color: white;\n    background-color: #cd8c00;\n}\ndiv#admin-company div.owner {\n  padding-top: 10px;\n  padding-bottom: 10px;\n  border-bottom: 1px solid black;\n}\ndiv#admin-company div.owner a.remove-owner {\n    text-decoration: underline;\n    color: red;\n    float: right;\n}\ndiv#admin-company a.save-edits {\n  display: block;\n  width: 150px;\n  color: white;\n  background-color: #CCC;\n  text-align: center;\n  border-radius: 5px;\n  margin-top: 20px;\n  height: 45px;\n  line-height: 45px;\n}\n", ""]);
+exports.push([module.i, "\ndiv#admin-company label {\n  font-weight: bold;\n  color: black;\n  font-size: 16px;\n  margin-top: 15px;\n}\ndiv#admin-company div.cafes-header {\n  font-family: \"Lato\", sans-serif;\n  border-bottom: 1px solid black;\n  font-weight: bold;\n  padding-bottom: 10px;\n}\ndiv#admin-company div.user-selection-container {\n  position: relative;\n  margin-top: 20px;\n}\ndiv#admin-company div.user-selection-container div.user-autocomplete-container {\n    border-radius: 3px;\n    border: 1px solid #BABABA;\n    background-color: white;\n    margin-top: -17px;\n    width: 80%;\n    position: absolute;\n    z-index: 9999;\n}\ndiv#admin-company div.user-selection-container div.user-autocomplete-container div.user-autocomplete {\n      cursor: pointer;\n      padding-left: 12px;\n      padding-right: 12px;\n      padding-top: 8px;\n      padding-bottom: 8px;\n}\ndiv#admin-company div.user-selection-container div.user-autocomplete-container div.user-autocomplete span.user-name {\n        display: block;\n        color: #0D223F;\n        font-size: 16px;\n        font-family: \"Lato\", sans-serif;\n        font-weight: bold;\n}\ndiv#admin-company div.user-selection-container div.user-autocomplete-container div.user-autocomplete:hover {\n        background-color: #F2F2F2;\n}\ndiv#admin-company div.location-type {\n  display: inline-block;\n  margin-right: 10px;\n  cursor: pointer;\n  background-color: #CCC;\n}\ndiv#admin-company div.location-type.active {\n    color: white;\n    background-color: #2c9a38;\n}\ndiv#admin-company div.owner {\n  padding-top: 10px;\n  padding-bottom: 10px;\n  border-bottom: 1px solid black;\n}\ndiv#admin-company div.owner a.remove-owner {\n    text-decoration: underline;\n    color: red;\n    float: right;\n}\ndiv#admin-company a.save-edits {\n  display: block;\n  width: 150px;\n  color: white;\n  background-color: #CCC;\n  text-align: center;\n  border-radius: 5px;\n  margin-top: 20px;\n  height: 45px;\n  line-height: 45px;\n}\n", ""]);
 
 // exports
 
@@ -13615,7 +13615,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv.action {\n  font-family: \"Lato\", sans-serif;\n  border-bottom: 1px solid black;\n  padding-bottom: 15px;\n  padding-top: 15px;\n}\ndiv.action span.approve-action {\n    font-weight: bold;\n    cursor: pointer;\n    display: inline-block;\n    margin-right: 20px;\n}\ndiv.action span.deny-action {\n    color: #cd8c00;\n    font-weight: bold;\n    cursor: pointer;\n    display: inline-block;\n}\ndiv.action img.more-info {\n    cursor: pointer;\n    float: right;\n    margin-top: 10px;\n    margin-right: 10px;\n}\n", ""]);
+exports.push([module.i, "\ndiv.action {\n  font-family: \"Lato\", sans-serif;\n  border-bottom: 1px solid black;\n  padding-bottom: 15px;\n  padding-top: 15px;\n}\ndiv.action span.approve-action {\n    font-weight: bold;\n    cursor: pointer;\n    display: inline-block;\n    margin-right: 20px;\n}\ndiv.action span.deny-action {\n    color: #2c9a38;\n    font-weight: bold;\n    cursor: pointer;\n    display: inline-block;\n}\ndiv.action img.more-info {\n    cursor: pointer;\n    float: right;\n    margin-top: 10px;\n    margin-right: 10px;\n}\n", ""]);
 
 // exports
 
@@ -13645,7 +13645,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv#toggle-cafes-view {\n  position: absolute;\n  z-index: 9;\n  right: 15px;\n  top: 90px;\n  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);\n  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);\n  border-radius: 5px;\n}\ndiv#toggle-cafes-view span.toggle-button {\n    cursor: pointer;\n    display: inline-block;\n    padding: 5px 20px;\n    background-color: white;\n    font-family: \"Lato\", sans-serif;\n    text-align: center;\n}\ndiv#toggle-cafes-view span.toggle-button.map-view {\n      border-top-left-radius: 5px;\n      border-bottom-left-radius: 5px;\n}\ndiv#toggle-cafes-view span.toggle-button.map-view.active {\n        color: white;\n        background-color: #cd8c00;\n}\ndiv#toggle-cafes-view span.toggle-button.list-view {\n      border-top-right-radius: 5px;\n      border-bottom-right-radius: 5px;\n}\ndiv#toggle-cafes-view span.toggle-button.list-view.active {\n        color: white;\n        background-color: #cd8c00;\n}\n", ""]);
+exports.push([module.i, "\ndiv#toggle-cafes-view {\n  position: absolute;\n  z-index: 9;\n  right: 15px;\n  top: 90px;\n  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);\n  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);\n  border-radius: 5px;\n}\ndiv#toggle-cafes-view span.toggle-button {\n    cursor: pointer;\n    display: inline-block;\n    padding: 5px 20px;\n    background-color: white;\n    font-family: \"Lato\", sans-serif;\n    text-align: center;\n}\ndiv#toggle-cafes-view span.toggle-button.map-view {\n      border-top-left-radius: 5px;\n      border-bottom-left-radius: 5px;\n}\ndiv#toggle-cafes-view span.toggle-button.map-view.active {\n        color: white;\n        background-color: #2c9a38;\n}\ndiv#toggle-cafes-view span.toggle-button.list-view {\n      border-top-right-radius: 5px;\n      border-bottom-right-radius: 5px;\n}\ndiv#toggle-cafes-view span.toggle-button.list-view.active {\n        color: white;\n        background-color: #2c9a38;\n}\n", ""]);
 
 // exports
 
@@ -13675,7 +13675,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv.list-filters-container {\n  border-bottom: 1px solid #BABABA;\n  margin-bottom: 30px;\n  padding-bottom: 20px;\n  padding-top: 20px;\n}\ndiv.list-filters-container span.clear-filters {\n    font-size: 16px;\n    color: #054E7A;\n    font-family: \"Lato\", sans-serif;\n    cursor: pointer;\n    display: block;\n    float: left;\n    margin-bottom: 20px;\n    display: none;\n}\ndiv.list-filters-container span.clear-filters img {\n      margin-right: 10px;\n      float: left;\n      margin-top: 6px;\n}\ndiv.list-filters-container span.filters-header {\n    display: block;\n    font-family: \"Lato\", sans-serif;\n    font-weight: bold;\n    margin-bottom: 10px;\n}\ndiv.list-filters-container input[type=\"text\"].search {\n    -webkit-box-shadow: none;\n            box-shadow: none;\n    border-radius: 3px;\n    color: #BABABA;\n    font-size: 16px;\n    font-family: \"Lato\", sans-serif;\n    background-image: url(\"/img/search-icon.svg\");\n    background-repeat: no-repeat;\n    background-position: 6px;\n    padding-left: 35px;\n    padding-top: 5px;\n    padding-bottom: 5px;\n}\ndiv.list-filters-container label.filter-label {\n    font-family: \"Lato\", sans-serif;\n    text-transform: uppercase;\n    font-weight: bold;\n    color: black;\n    margin-top: 20px;\n    margin-bottom: 10px;\n}\ndiv.list-filters-container div.location-filter {\n    text-align: center;\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    color: #cd8c00;\n    border-bottom: 1px solid #cd8c00;\n    border-top: 1px solid #cd8c00;\n    border-left: 1px solid #cd8c00;\n    border-right: 1px solid #cd8c00;\n    width: 33%;\n    display: inline-block;\n    height: 55px;\n    line-height: 55px;\n    cursor: pointer;\n    margin-bottom: 5px;\n}\ndiv.list-filters-container div.location-filter.active {\n      color: white;\n      background-color: #cd8c00;\n}\ndiv.list-filters-container div.location-filter.all-locations {\n      border-top-left-radius: 3px;\n      border-bottom-left-radius: 3px;\n}\ndiv.list-filters-container div.location-filter.roasters {\n      border-left: none;\n      border-right: none;\n}\ndiv.list-filters-container div.location-filter.cafes {\n      border-top-right-radius: 3px;\n      border-bottom-right-radius: 3px;\n}\ndiv.list-filters-container span.order-direction {\n    cursor: pointer;\n    display: inline-block;\n    padding: 5px 20px;\n    background-color: white;\n    font-family: \"Lato\", sans-serif;\n    text-align: center;\n    border: 1px solid #cd8c00;\n    color: #cd8c00;\n}\ndiv.list-filters-container span.order-direction.asc {\n      border-top-left-radius: 5px;\n      border-bottom-left-radius: 5px;\n}\ndiv.list-filters-container span.order-direction.asc.active {\n        color: white;\n        background-color: #cd8c00;\n}\ndiv.list-filters-container span.order-direction.desc {\n      border-top-right-radius: 5px;\n      border-bottom-right-radius: 5px;\n}\ndiv.list-filters-container span.order-direction.desc.active {\n        color: white;\n        background-color: #cd8c00;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\ndiv.list-filters-container span.clear-filters {\n    display: block;\n}\ndiv.list-filters-container div.close-filters {\n    display: none;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
+exports.push([module.i, "\ndiv.list-filters-container {\n  border-bottom: 1px solid #BABABA;\n  margin-bottom: 30px;\n  padding-bottom: 20px;\n  padding-top: 20px;\n}\ndiv.list-filters-container span.clear-filters {\n    font-size: 16px;\n    color: #054E7A;\n    font-family: \"Lato\", sans-serif;\n    cursor: pointer;\n    display: block;\n    float: left;\n    margin-bottom: 20px;\n    display: none;\n}\ndiv.list-filters-container span.clear-filters img {\n      margin-right: 10px;\n      float: left;\n      margin-top: 6px;\n}\ndiv.list-filters-container span.filters-header {\n    display: block;\n    font-family: \"Lato\", sans-serif;\n    font-weight: bold;\n    margin-bottom: 10px;\n}\ndiv.list-filters-container input[type=\"text\"].search {\n    -webkit-box-shadow: none;\n            box-shadow: none;\n    border-radius: 3px;\n    color: #BABABA;\n    font-size: 16px;\n    font-family: \"Lato\", sans-serif;\n    background-image: url(\"/img/search-icon.svg\");\n    background-repeat: no-repeat;\n    background-position: 6px;\n    padding-left: 35px;\n    padding-top: 5px;\n    padding-bottom: 5px;\n}\ndiv.list-filters-container label.filter-label {\n    font-family: \"Lato\", sans-serif;\n    text-transform: uppercase;\n    font-weight: bold;\n    color: black;\n    margin-top: 20px;\n    margin-bottom: 10px;\n}\ndiv.list-filters-container div.location-filter {\n    text-align: center;\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    color: #2c9a38;\n    border-bottom: 1px solid #2c9a38;\n    border-top: 1px solid #2c9a38;\n    border-left: 1px solid #2c9a38;\n    border-right: 1px solid #2c9a38;\n    width: 33%;\n    display: inline-block;\n    height: 55px;\n    line-height: 55px;\n    cursor: pointer;\n    margin-bottom: 5px;\n}\ndiv.list-filters-container div.location-filter.active {\n      color: white;\n      background-color: #2c9a38;\n}\ndiv.list-filters-container div.location-filter.all-locations {\n      border-top-left-radius: 3px;\n      border-bottom-left-radius: 3px;\n}\ndiv.list-filters-container div.location-filter.roasters {\n      border-left: none;\n      border-right: none;\n}\ndiv.list-filters-container div.location-filter.cafes {\n      border-top-right-radius: 3px;\n      border-bottom-right-radius: 3px;\n}\ndiv.list-filters-container span.order-direction {\n    cursor: pointer;\n    display: inline-block;\n    padding: 5px 20px;\n    background-color: white;\n    font-family: \"Lato\", sans-serif;\n    text-align: center;\n    border: 1px solid #2c9a38;\n    color: #2c9a38;\n}\ndiv.list-filters-container span.order-direction.asc {\n      border-top-left-radius: 5px;\n      border-bottom-left-radius: 5px;\n}\ndiv.list-filters-container span.order-direction.asc.active {\n        color: white;\n        background-color: #2c9a38;\n}\ndiv.list-filters-container span.order-direction.desc {\n      border-top-right-radius: 5px;\n      border-bottom-right-radius: 5px;\n}\ndiv.list-filters-container span.order-direction.desc.active {\n        color: white;\n        background-color: #2c9a38;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\ndiv.list-filters-container span.clear-filters {\n    display: block;\n}\ndiv.list-filters-container div.close-filters {\n    display: none;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
 
 // exports
 
@@ -13690,7 +13690,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv#admin-brew-methods a.add-brew-method {\n  display: block;\n  width: 150px;\n  color: white;\n  background-color: #CCC;\n  text-align: center;\n  border-radius: 5px;\n  float: right;\n  height: 45px;\n  line-height: 45px;\n}\ndiv#admin-brew-methods div.new-brew-method-modal {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-color: rgba(0, 0, 0, 0.6);\n  z-index: 99999;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box {\n    width: 100%;\n    max-width: 530px;\n    min-width: 320px;\n    padding: 20px;\n    background-color: #fff;\n    border: 1px solid #ddd;\n    -webkit-box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    border-radius: 4px;\n    font-size: 16px;\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    -webkit-transform: translate(-50%, -50%);\n            transform: translate(-50%, -50%);\n    max-height: 500px;\n    overflow-y: auto;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box label {\n      font-weight: bold;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box div.icon-selection-container {\n      margin-top: 10px;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box div.new-icon-container {\n      text-align: center;\n      cursor: pointer;\n      margin-bottom: 20px;\n      border-radius: 5px;\n      padding: 5px;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box div.new-icon-container.active {\n        background-color: #cd8c00;\n        color: white;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box div.new-icon-container img.new-icon {\n        display: block;\n        margin: auto;\n        margin-bottom: 10px;\n        height: 30px;\n}\ndiv#admin-brew-methods div.new-brew-method-modal a.add-method-button {\n    display: block;\n    width: 150px;\n    color: white;\n    background-color: #CCC;\n    text-align: center;\n    border-radius: 5px;\n    margin-top: 20px;\n    height: 45px;\n    line-height: 45px;\n}\n", ""]);
+exports.push([module.i, "\ndiv#admin-brew-methods a.add-brew-method {\n  display: block;\n  width: 150px;\n  color: white;\n  background-color: #CCC;\n  text-align: center;\n  border-radius: 5px;\n  float: right;\n  height: 45px;\n  line-height: 45px;\n}\ndiv#admin-brew-methods div.new-brew-method-modal {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-color: rgba(0, 0, 0, 0.6);\n  z-index: 99999;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box {\n    width: 100%;\n    max-width: 530px;\n    min-width: 320px;\n    padding: 20px;\n    background-color: #fff;\n    border: 1px solid #ddd;\n    -webkit-box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    border-radius: 4px;\n    font-size: 16px;\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    -webkit-transform: translate(-50%, -50%);\n            transform: translate(-50%, -50%);\n    max-height: 500px;\n    overflow-y: auto;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box label {\n      font-weight: bold;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box div.icon-selection-container {\n      margin-top: 10px;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box div.new-icon-container {\n      text-align: center;\n      cursor: pointer;\n      margin-bottom: 20px;\n      border-radius: 5px;\n      padding: 5px;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box div.new-icon-container.active {\n        background-color: #2c9a38;\n        color: white;\n}\ndiv#admin-brew-methods div.new-brew-method-modal div.modal-box div.new-icon-container img.new-icon {\n        display: block;\n        margin: auto;\n        margin-bottom: 10px;\n        height: 30px;\n}\ndiv#admin-brew-methods div.new-brew-method-modal a.add-method-button {\n    display: block;\n    width: 150px;\n    color: white;\n    background-color: #CCC;\n    text-align: center;\n    border-radius: 5px;\n    margin-top: 20px;\n    height: 45px;\n    line-height: 45px;\n}\n", ""]);
 
 // exports
 
@@ -13765,7 +13765,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv.pop-out {\n  position: fixed;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  top: 0;\n  background-color: rgba(55, 44, 12, 0.29);\n  z-index: 9999;\n}\ndiv.pop-out div.pop-out-side-bar {\n    position: fixed;\n    right: 0;\n    bottom: 0;\n    top: 0;\n    width: 250px;\n    background-color: white;\n    -webkit-box-shadow: -2px 0 4px 0 rgba(3, 27, 78, 0.1);\n            box-shadow: -2px 0 4px 0 rgba(3, 27, 78, 0.1);\n    padding: 30px;\n}\ndiv.pop-out div.pop-out-side-bar div.side-bar-link {\n      border-bottom: 1px solid #BABABA;\n      font-size: 16px;\n      font-weight: bold;\n      font-family: \"Lato\", sans-serif;\n      text-transform: uppercase;\n      padding-top: 25px;\n      padding-bottom: 25px;\n}\ndiv.pop-out div.pop-out-side-bar div.side-bar-link a {\n        color: black;\n}\ndiv.pop-out div.pop-out-side-bar img.close-menu-icon {\n      float: right;\n      cursor: pointer;\n}\ndiv.pop-out div.pop-out-side-bar div.ssu-container {\n      position: absolute;\n      bottom: 30px;\n}\ndiv.pop-out div.pop-out-side-bar div.ssu-container span.ssu-built-on {\n        color: black;\n        font-size: 14px;\n        font-family: \"Lato\", sans-serif;\n        display: block;\n        margin-bottom: 10px;\n}\ndiv.pop-out div.pop-out-side-bar div.ssu-container img {\n        margin: auto;\n        max-width: 190px;\n}\n", ""]);
+exports.push([module.i, "\ndiv.pop-out {\n  position: fixed;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  top: 0;\n  background-color: rgba(55, 44, 12, 0.29);\n  z-index: 9999;\n}\ndiv.pop-out div.pop-out-side-bar {\n    position: fixed;\n    right: 0;\n    bottom: 0;\n    top: 0;\n    width: 40%;\n    background-color: white;\n    -webkit-box-shadow: -2px 0 4px 0 rgba(3, 27, 78, 0.1);\n            box-shadow: -2px 0 4px 0 rgba(3, 27, 78, 0.1);\n    padding: 30px;\n}\ndiv.pop-out div.pop-out-side-bar div.side-bar-link {\n      border-bottom: 1px solid #BABABA;\n      font-size: 16px;\n      font-weight: bold;\n      font-family: \"Lato\", sans-serif;\n      text-transform: uppercase;\n      padding-top: 25px;\n      padding-bottom: 25px;\n}\ndiv.pop-out div.pop-out-side-bar div.side-bar-link a {\n        color: black;\n}\ndiv.pop-out div.pop-out-side-bar img.close-menu-icon {\n      float: right;\n      cursor: pointer;\n}\ndiv.pop-out div.pop-out-side-bar div.ssu-container {\n      position: absolute;\n      bottom: 30px;\n}\ndiv.pop-out div.pop-out-side-bar div.ssu-container span.ssu-built-on {\n        color: black;\n        font-size: 14px;\n        font-family: \"Lato\", sans-serif;\n        display: block;\n        margin-bottom: 10px;\n}\ndiv.pop-out div.pop-out-side-bar div.ssu-container img {\n        margin: auto;\n        max-width: 190px;\n}\n", ""]);
 
 // exports
 
@@ -13810,7 +13810,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv.filters-container {\n  background-color: white;\n  position: fixed;\n  left: 0;\n  bottom: 0;\n  top: 75px;\n  max-width: 550px;\n  width: 100%;\n  padding-top: 50px;\n  -webkit-box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n          box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n  z-index: 99;\n}\ndiv.filters-container span.clear-filters {\n    font-size: 16px;\n    color: #054E7A;\n    font-family: \"Lato\", sans-serif;\n    cursor: pointer;\n    display: block;\n    float: left;\n    margin-bottom: 20px;\n    display: none;\n}\ndiv.filters-container span.clear-filters img {\n      margin-right: 10px;\n      float: left;\n      margin-top: 6px;\n}\ndiv.filters-container span.filters-header {\n    display: block;\n    font-family: \"Lato\", sans-serif;\n    font-weight: bold;\n    margin-bottom: 10px;\n}\ndiv.filters-container input[type=\"text\"].search {\n    -webkit-box-shadow: none;\n            box-shadow: none;\n    border-radius: 3px;\n    color: #BABABA;\n    font-size: 16px;\n    font-family: \"Lato\", sans-serif;\n    background-image: url(\"/img/search-icon.svg\");\n    background-repeat: no-repeat;\n    background-position: 6px;\n    padding-left: 35px;\n    padding-top: 5px;\n    padding-bottom: 5px;\n}\ndiv.filters-container label.filter-label {\n    font-family: \"Lato\", sans-serif;\n    text-transform: uppercase;\n    font-weight: bold;\n    color: black;\n    margin-top: 20px;\n    margin-bottom: 10px;\n}\ndiv.filters-container div.location-filter {\n    text-align: center;\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    color: #cd8c00;\n    border-bottom: 1px solid #cd8c00;\n    border-top: 1px solid #cd8c00;\n    border-left: 1px solid #cd8c00;\n    border-right: 1px solid #cd8c00;\n    width: 33%;\n    display: inline-block;\n    height: 55px;\n    line-height: 55px;\n    cursor: pointer;\n    margin-bottom: 5px;\n}\ndiv.filters-container div.location-filter.active {\n      color: white;\n      background-color: #cd8c00;\n}\ndiv.filters-container div.location-filter.all-locations {\n      border-top-left-radius: 3px;\n      border-bottom-left-radius: 3px;\n}\ndiv.filters-container div.location-filter.roasters {\n      border-left: none;\n      border-right: none;\n}\ndiv.filters-container div.location-filter.cafes {\n      border-top-right-radius: 3px;\n      border-bottom-right-radius: 3px;\n}\ndiv.filters-container span.liked-location-label {\n    color: #666666;\n    font-size: 16px;\n    font-family: \"Lato\", sans-serif;\n    margin-left: 10px;\n}\ndiv.filters-container div.close-filters {\n    height: 90px;\n    width: 23px;\n    position: absolute;\n    right: -20px;\n    background-color: white;\n    border-top-right-radius: 3px;\n    border-bottom-right-radius: 3px;\n    line-height: 90px;\n    top: 50%;\n    cursor: pointer;\n    margin-top: -82px;\n    text-align: center;\n}\ndiv.filters-container span.no-results {\n    display: block;\n    text-align: center;\n    margin-top: 50px;\n    color: #666666;\n    text-transform: uppercase;\n    font-weight: 600;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\ndiv.filters-container {\n    padding-top: 25px;\n    overflow-y: auto;\n}\ndiv.filters-container span.clear-filters {\n      display: block;\n}\ndiv.filters-container div.close-filters {\n      display: none;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
+exports.push([module.i, "\ndiv.filters-container {\n  background-color: white;\n  position: fixed;\n  left: 0;\n  bottom: 0;\n  top: 75px;\n  max-width: 550px;\n  width: 100%;\n  padding-top: 50px;\n  -webkit-box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n          box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n  z-index: 99;\n}\ndiv.filters-container span.clear-filters {\n    font-size: 16px;\n    color: #054E7A;\n    font-family: \"Lato\", sans-serif;\n    cursor: pointer;\n    display: block;\n    float: left;\n    margin-bottom: 20px;\n    display: none;\n}\ndiv.filters-container span.clear-filters img {\n      margin-right: 10px;\n      float: left;\n      margin-top: 6px;\n}\ndiv.filters-container span.filters-header {\n    display: block;\n    font-family: \"Lato\", sans-serif;\n    font-weight: bold;\n    margin-bottom: 10px;\n}\ndiv.filters-container input[type=\"text\"].search {\n    -webkit-box-shadow: none;\n            box-shadow: none;\n    border-radius: 3px;\n    color: #BABABA;\n    font-size: 16px;\n    font-family: \"Lato\", sans-serif;\n    background-image: url(\"/img/search-icon.svg\");\n    background-repeat: no-repeat;\n    background-position: 6px;\n    padding-left: 35px;\n    padding-top: 5px;\n    padding-bottom: 5px;\n}\ndiv.filters-container label.filter-label {\n    font-family: \"Lato\", sans-serif;\n    text-transform: uppercase;\n    font-weight: bold;\n    color: black;\n    margin-top: 20px;\n    margin-bottom: 10px;\n}\ndiv.filters-container div.location-filter {\n    text-align: center;\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    color: #2c9a38;\n    border-bottom: 1px solid #2c9a38;\n    border-top: 1px solid #2c9a38;\n    border-left: 1px solid #2c9a38;\n    border-right: 1px solid #2c9a38;\n    width: 33%;\n    display: inline-block;\n    height: 55px;\n    line-height: 55px;\n    cursor: pointer;\n    margin-bottom: 5px;\n}\ndiv.filters-container div.location-filter.active {\n      color: white;\n      background-color: #2c9a38;\n}\ndiv.filters-container div.location-filter.all-locations {\n      border-top-left-radius: 3px;\n      border-bottom-left-radius: 3px;\n}\ndiv.filters-container div.location-filter.roasters {\n      border-left: none;\n      border-right: none;\n}\ndiv.filters-container div.location-filter.cafes {\n      border-top-right-radius: 3px;\n      border-bottom-right-radius: 3px;\n}\ndiv.filters-container span.liked-location-label {\n    color: #666666;\n    font-size: 16px;\n    font-family: \"Lato\", sans-serif;\n    margin-left: 10px;\n}\ndiv.filters-container div.close-filters {\n    height: 90px;\n    width: 23px;\n    position: absolute;\n    right: -20px;\n    background-color: white;\n    border-top-right-radius: 3px;\n    border-bottom-right-radius: 3px;\n    line-height: 90px;\n    top: 50%;\n    cursor: pointer;\n    margin-top: -82px;\n    text-align: center;\n}\ndiv.filters-container span.no-results {\n    display: block;\n    text-align: center;\n    margin-top: 50px;\n    color: #666666;\n    text-transform: uppercase;\n    font-weight: 600;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\ndiv.filters-container {\n    padding-top: 25px;\n    overflow-y: auto;\n}\ndiv.filters-container span.clear-filters {\n      display: block;\n}\ndiv.filters-container div.close-filters {\n      display: none;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
 
 // exports
 
@@ -13885,7 +13885,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv#new-cafe-page[data-v-6b245ab6] {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-color: white;\n  z-index: 99999;\n  overflow: auto;\n}\ndiv#new-cafe-page img#back[data-v-6b245ab6] {\n    float: right;\n    margin-top: 20px;\n    margin-right: 20px;\n}\ndiv#new-cafe-page .centered[data-v-6b245ab6] {\n    margin: auto;\n}\ndiv#new-cafe-page h2.page-title[data-v-6b245ab6] {\n    color: #342C0C;\n    font-size: 36px;\n    font-weight: 900;\n    font-family: \"Lato\", sans-serif;\n    margin-top: 60px;\n}\ndiv#new-cafe-page label.form-label[data-v-6b245ab6] {\n    font-family: \"Lato\", sans-serif;\n    text-transform: uppercase;\n    font-weight: bold;\n    color: black;\n    margin-top: 10px;\n    margin-bottom: 10px;\n}\ndiv#new-cafe-page input[type=\"text\"].form-input[data-v-6b245ab6] {\n    border: 1px solid #BABABA;\n    border-radius: 3px;\n}\ndiv#new-cafe-page input[type=\"text\"].form-input.invalid[data-v-6b245ab6] {\n      border: 1px solid #D0021B;\n}\ndiv#new-cafe-page div.validation[data-v-6b245ab6] {\n    color: #D0021B;\n    font-family: \"Lato\", sans-serif;\n    font-size: 14px;\n    margin-top: -15px;\n    margin-bottom: 15px;\n}\ndiv#new-cafe-page div.location-type[data-v-6b245ab6] {\n    text-align: center;\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    width: 25%;\n    display: inline-block;\n    height: 55px;\n    line-height: 55px;\n    cursor: pointer;\n    margin-bottom: 5px;\n    margin-right: 10px;\n    background-color: #EEE;\n    color: #111111;\n}\ndiv#new-cafe-page div.location-type.active[data-v-6b245ab6] {\n      color: white;\n      background-color: #cd8c00;\n}\ndiv#new-cafe-page div.location-type.roaster[data-v-6b245ab6] {\n      border-top-left-radius: 3px;\n      border-bottom-left-radius: 3px;\n      border-right: 0px;\n}\ndiv#new-cafe-page div.location-type.cafe[data-v-6b245ab6] {\n      border-top-right-radius: 3px;\n      border-bottom-right-radius: 3px;\n}\ndiv#new-cafe-page div.company-selection-container[data-v-6b245ab6] {\n    position: relative;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container[data-v-6b245ab6] {\n      border-radius: 3px;\n      border: 1px solid #BABABA;\n      background-color: white;\n      margin-top: -17px;\n      width: 80%;\n      position: absolute;\n      z-index: 9999;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete[data-v-6b245ab6] {\n        cursor: pointer;\n        padding-left: 12px;\n        padding-right: 12px;\n        padding-top: 8px;\n        padding-bottom: 8px;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete span.company-name[data-v-6b245ab6] {\n          display: block;\n          color: #0D223F;\n          font-size: 16px;\n          font-family: \"Lato\", sans-serif;\n          font-weight: bold;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete span.company-locations[data-v-6b245ab6] {\n          display: block;\n          font-size: 14px;\n          color: #676767;\n          font-family: \"Lato\", sans-serif;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete[data-v-6b245ab6]:hover {\n          background-color: #F2F2F2;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.new-company[data-v-6b245ab6] {\n        cursor: pointer;\n        padding-left: 12px;\n        padding-right: 12px;\n        padding-top: 8px;\n        padding-bottom: 8px;\n        font-family: \"Lato\", sans-serif;\n        color: #054E7A;\n        font-style: italic;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.new-company[data-v-6b245ab6]:hover {\n          background-color: #F2F2F2;\n}\ndiv#new-cafe-page a.add-location-button[data-v-6b245ab6] {\n    display: block;\n    text-align: center;\n    height: 50px;\n    color: white;\n    border-radius: 3px;\n    font-size: 18px;\n    font-family: \"Lato\", sans-serif;\n    background-color: #A7BE4D;\n    line-height: 50px;\n    margin-bottom: 50px;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\ndiv#new-cafe-page div.location-type[data-v-6b245ab6] {\n    width: 50%;\n}\n}\n", ""]);
+exports.push([module.i, "\ndiv#new-cafe-page[data-v-6b245ab6] {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-color: white;\n  z-index: 99999;\n  overflow: auto;\n}\ndiv#new-cafe-page img#back[data-v-6b245ab6] {\n    float: right;\n    margin-top: 20px;\n    margin-right: 20px;\n}\ndiv#new-cafe-page .centered[data-v-6b245ab6] {\n    margin: auto;\n}\ndiv#new-cafe-page h2.page-title[data-v-6b245ab6] {\n    color: #342C0C;\n    font-size: 36px;\n    font-weight: 900;\n    font-family: \"Lato\", sans-serif;\n    margin-top: 60px;\n}\ndiv#new-cafe-page label.form-label[data-v-6b245ab6] {\n    font-family: \"Lato\", sans-serif;\n    text-transform: uppercase;\n    font-weight: bold;\n    color: black;\n    margin-top: 10px;\n    margin-bottom: 10px;\n}\ndiv#new-cafe-page input[type=\"text\"].form-input[data-v-6b245ab6] {\n    border: 1px solid #BABABA;\n    border-radius: 3px;\n}\ndiv#new-cafe-page input[type=\"text\"].form-input.invalid[data-v-6b245ab6] {\n      border: 1px solid #D0021B;\n}\ndiv#new-cafe-page div.validation[data-v-6b245ab6] {\n    color: #D0021B;\n    font-family: \"Lato\", sans-serif;\n    font-size: 14px;\n    margin-top: -15px;\n    margin-bottom: 15px;\n}\ndiv#new-cafe-page div.location-type[data-v-6b245ab6] {\n    text-align: center;\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    width: 25%;\n    display: inline-block;\n    height: 55px;\n    line-height: 55px;\n    cursor: pointer;\n    margin-bottom: 5px;\n    margin-right: 10px;\n    background-color: #EEE;\n    color: #111111;\n}\ndiv#new-cafe-page div.location-type.active[data-v-6b245ab6] {\n      color: white;\n      background-color: #2c9a38;\n}\ndiv#new-cafe-page div.location-type.roaster[data-v-6b245ab6] {\n      border-top-left-radius: 3px;\n      border-bottom-left-radius: 3px;\n      border-right: 0px;\n}\ndiv#new-cafe-page div.location-type.cafe[data-v-6b245ab6] {\n      border-top-right-radius: 3px;\n      border-bottom-right-radius: 3px;\n}\ndiv#new-cafe-page div.company-selection-container[data-v-6b245ab6] {\n    position: relative;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container[data-v-6b245ab6] {\n      border-radius: 3px;\n      border: 1px solid #BABABA;\n      background-color: white;\n      margin-top: -17px;\n      width: 80%;\n      position: absolute;\n      z-index: 9999;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete[data-v-6b245ab6] {\n        cursor: pointer;\n        padding-left: 12px;\n        padding-right: 12px;\n        padding-top: 8px;\n        padding-bottom: 8px;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete span.company-name[data-v-6b245ab6] {\n          display: block;\n          color: #0D223F;\n          font-size: 16px;\n          font-family: \"Lato\", sans-serif;\n          font-weight: bold;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete span.company-locations[data-v-6b245ab6] {\n          display: block;\n          font-size: 14px;\n          color: #676767;\n          font-family: \"Lato\", sans-serif;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.company-autocomplete[data-v-6b245ab6]:hover {\n          background-color: #F2F2F2;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.new-company[data-v-6b245ab6] {\n        cursor: pointer;\n        padding-left: 12px;\n        padding-right: 12px;\n        padding-top: 8px;\n        padding-bottom: 8px;\n        font-family: \"Lato\", sans-serif;\n        color: #054E7A;\n        font-style: italic;\n}\ndiv#new-cafe-page div.company-selection-container div.company-autocomplete-container div.new-company[data-v-6b245ab6]:hover {\n          background-color: #F2F2F2;\n}\ndiv#new-cafe-page a.add-location-button[data-v-6b245ab6] {\n    display: block;\n    text-align: center;\n    height: 50px;\n    color: white;\n    border-radius: 3px;\n    font-size: 18px;\n    font-family: \"Lato\", sans-serif;\n    background-color: #A7BE4D;\n    line-height: 50px;\n    margin-bottom: 50px;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\ndiv#new-cafe-page div.location-type[data-v-6b245ab6] {\n    width: 50%;\n}\n}\n", ""]);
 
 // exports
 
@@ -13915,7 +13915,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv#login-modal {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-color: rgba(0, 0, 0, 0.6);\n  z-index: 99999;\n}\ndiv#login-modal div.login-box {\n    width: 100%;\n    max-width: 530px;\n    min-width: 320px;\n    padding: 20px;\n    background-color: #fff;\n    border: 1px solid #ddd;\n    -webkit-box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    border-radius: 4px;\n    font-size: 16px;\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    -webkit-transform: translate(-50%, -50%);\n            transform: translate(-50%, -50%);\n}\ndiv#login-modal div.login-box a.social-link {\n      display: block;\n      margin: auto;\n      width: 230px;\n      margin-top: 10px;\n      margin-bottom: 10px;\n}\ndiv#login-modal div.login-box div.login-label {\n      color: black;\n      font-family: \"Lato\", sans-serif;\n      font-weight: bold;\n      text-transform: uppercase;\n      text-align: center;\n      margin-top: 40px;\n      margin-bottom: 20px;\n}\ndiv#login-modal div.login-box p.learn-more-description {\n      color: #666666;\n      text-align: center;\n}\ndiv#login-modal div.login-box a.learn-more-button {\n      border: 2px solid #cd8c00;\n      border-radius: 3px;\n      text-transform: uppercase;\n      font-family: \"Lato\", sans-serif;\n      color: #cd8c00;\n      width: 360px;\n      font-size: 16px;\n      text-align: center;\n      padding: 10px;\n      margin-top: 20px;\n      display: block;\n      margin: auto;\n}\ndiv#login-modal div.login-box a.learn-more-button:hover {\n        color: white;\n        background-color: #cd8c00;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\ndiv#login-modal div.login-box {\n    width: 95%;\n}\ndiv#login-modal div.login-box a.learn-more-button {\n      width: 300px;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
+exports.push([module.i, "\ndiv#login-modal {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-color: rgba(0, 0, 0, 0.6);\n  z-index: 99999;\n}\ndiv#login-modal div.login-box {\n    width: 100%;\n    max-width: 530px;\n    min-width: 320px;\n    padding: 20px;\n    background-color: #fff;\n    border: 1px solid #ddd;\n    -webkit-box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    box-shadow: 0 1px 3px rgba(50, 50, 50, 0.08);\n    border-radius: 4px;\n    font-size: 16px;\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    -webkit-transform: translate(-50%, -50%);\n            transform: translate(-50%, -50%);\n}\ndiv#login-modal div.login-box a.social-link {\n      display: block;\n      margin: auto;\n      width: 230px;\n      margin-top: 10px;\n      margin-bottom: 10px;\n}\ndiv#login-modal div.login-box div.login-label {\n      color: black;\n      font-family: \"Lato\", sans-serif;\n      font-weight: bold;\n      text-transform: uppercase;\n      text-align: center;\n      margin-top: 40px;\n      margin-bottom: 20px;\n}\ndiv#login-modal div.login-box p.learn-more-description {\n      color: #666666;\n      text-align: center;\n}\ndiv#login-modal div.login-box a.learn-more-button {\n      border: 2px solid #2c9a38;\n      border-radius: 3px;\n      text-transform: uppercase;\n      font-family: \"Lato\", sans-serif;\n      color: #2c9a38;\n      width: 360px;\n      font-size: 16px;\n      text-align: center;\n      padding: 10px;\n      margin-top: 20px;\n      display: block;\n      margin: auto;\n}\ndiv#login-modal div.login-box a.learn-more-button:hover {\n        color: white;\n        background-color: #2c9a38;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\ndiv#login-modal div.login-box {\n    width: 95%;\n}\ndiv#login-modal div.login-box a.learn-more-button {\n      width: 300px;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
 
 // exports
 
@@ -13930,7 +13930,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv#add-cafe-button {\n  background-color: #cd8c00;\n  width: 56px;\n  height: 56px;\n  border-radius: 50px;\n  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);\n  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);\n  text-align: center;\n  z-index: 9;\n  cursor: pointer;\n  position: absolute;\n  right: 60px;\n  bottom: 30px;\n  color: white;\n  line-height: 50px;\n  font-size: 40px;\n}\n", ""]);
+exports.push([module.i, "\ndiv#add-cafe-button {\n  background-color: #2c9a38;\n  width: 56px;\n  height: 56px;\n  border-radius: 50px;\n  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);\n  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);\n  text-align: center;\n  z-index: 9;\n  cursor: pointer;\n  position: absolute;\n  right: 60px;\n  bottom: 30px;\n  color: white;\n  line-height: 50px;\n  font-size: 40px;\n}\n", ""]);
 
 // exports
 
@@ -13945,7 +13945,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\nheader {\n  background-color: #FFFFFF;\n  height: 75px;\n  z-index: 9999;\n  position: absolute;\n  top: 0;\n  left: 0;\n  right: 0;\n}\nheader .logo {\n    margin: auto;\n    margin-top: 20px;\n    margin-bottom: 22.5px;\n    margin-right: 10px;\n    display: inline-block;\n    font-size: 25px;\n    font-weight: 600;\n    color: #cd8c00;\n}\nheader img.hamburger {\n    float: right;\n    margin-right: 18px;\n    margin-top: 30px;\n    cursor: pointer;\n}\nheader img.avatar {\n    float: right;\n    margin-right: 20px;\n    width: 40px;\n    height: 40px;\n    border-radius: 20px;\n    margin-top: 18px;\n}\nheader:after {\n    content: \"\";\n    display: table;\n    clear: both;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\nnav.top-navigation span.login {\n    display: none;\n}\nnav.top-navigation img.hamburger {\n    margin-top: 26px;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
+exports.push([module.i, "\nheader {\n  background-color: #FFFFFF;\n  height: 75px;\n  z-index: 9999;\n  position: absolute;\n  top: 0;\n  left: 0;\n  right: 0;\n}\nheader .logo {\n    margin: auto;\n    margin-top: 20px;\n    margin-bottom: 22.5px;\n    margin-right: 10px;\n    display: inline-block;\n    font-size: 25px;\n    font-weight: 600;\n    color: #2c9a38;\n}\nheader img.hamburger {\n    float: right;\n    margin-right: 18px;\n    margin-top: 30px;\n    cursor: pointer;\n}\nheader img.avatar {\n    float: right;\n    margin-right: 20px;\n    width: 40px;\n    height: 40px;\n    border-radius: 20px;\n    margin-top: 18px;\n}\nheader:after {\n    content: \"\";\n    display: table;\n    clear: both;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\nnav.top-navigation span.login {\n    display: none;\n}\nnav.top-navigation img.hamburger {\n    margin-top: 26px;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
 
 // exports
 
@@ -13990,7 +13990,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\nnav.top-navigation {\n  background-color: #FFFFFF;\n  height: 75px;\n  -webkit-box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n          box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n  z-index: 9999;\n  position: fixed;\n  top: 0;\n  left: 0;\n  right: 0;\n}\nnav.top-navigation a.filters {\n    cursor: pointer;\n    color: #cd8c00;\n    width: 140px;\n    height: 45px;\n    border: 2px solid #cd8c00;\n    border-radius: 3px;\n    text-transform: uppercase;\n    display: block;\n    float: left;\n    text-align: center;\n    line-height: 41px;\n    margin-top: 15px;\n    margin-left: 20px;\n    font-family: \"Lato\", sans-serif;\n    font-weight: bold;\n    font-size: 16px;\n}\nnav.top-navigation a.filters img {\n      display: inline-block;\n      vertical-align: middle;\n      margin-right: 10px;\n      height: 13px;\n}\nnav.top-navigation a.filters img.list {\n        -webkit-transform: rotate(-90deg);\n                transform: rotate(-90deg);\n}\nnav.top-navigation a.filters img.chevron-active {\n      display: none;\n}\nnav.top-navigation a.filters.active {\n      background-color: #cd8c00;\n      color: white;\n}\nnav.top-navigation a.filters.active img.chevron {\n        display: none;\n}\nnav.top-navigation a.filters.active img.chevron-active {\n        display: inline-block;\n}\nnav.top-navigation a.filters.active img.chevron-active.list {\n          -webkit-transform: rotate(-90deg);\n                  transform: rotate(-90deg);\n}\nnav.top-navigation a.filters span.filter-count-active {\n      display: inline-block;\n      margin-left: 5px;\n}\nnav.top-navigation span.clear-filters {\n    font-size: 16px;\n    color: #054E7A;\n    font-family: \"Lato\", sans-serif;\n    cursor: pointer;\n    margin-left: 15px;\n    display: block;\n    float: left;\n    margin-top: 25px;\n}\nnav.top-navigation span.clear-filters img {\n      margin-right: 10px;\n      float: left;\n      margin-top: 6px;\n}\nnav.top-navigation .chevron-lang {\n    -webkit-transform: rotateZ(90deg);\n            transform: rotateZ(90deg);\n    width: 6px;\n    /* color: black; */\n    margin: 5px;\n}\nnav.top-navigation .logo {\n    margin: auto;\n    margin-top: 20px;\n    margin-bottom: 22.5px;\n    margin-right: 10px;\n    display: inline-block;\n    font-size: 25px;\n    font-weight: 600;\n    color: #cd8c00;\n}\nnav.top-navigation img.hamburger {\n    float: right;\n    margin-right: 18px;\n    margin-top: 30px;\n    cursor: pointer;\n}\nnav.top-navigation img.avatar {\n    float: right;\n    margin-right: 20px;\n    width: 40px;\n    height: 40px;\n    border-radius: 20px;\n    margin-top: 18px;\n}\nnav.top-navigation:after {\n    content: \"\";\n    display: table;\n    clear: both;\n}\nnav.top-navigation span.login {\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    text-transform: uppercase;\n    color: black;\n    font-weight: bold;\n    float: right;\n    margin-top: 27px;\n    margin-right: 15px;\n    cursor: pointer;\n}\n.dropdown {\n  position: relative;\n  display: inline-block;\n}\n\n/* Dropdown Content (Hidden by Default) */\n.dropdown-content {\n  display: none;\n  position: absolute;\n  background-color: #f9f9f9;\n  min-width: 160px;\n  -webkit-box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);\n          box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);\n  z-index: 1;\n}\n\n/* Links inside the dropdown */\n.dropdown-content a {\n  color: black;\n  padding: 12px 16px;\n  text-decoration: none;\n  display: block;\n}\n\n/* Change color of dropdown links on hover */\n.dropdown-content a:hover {\n  background-color: #f1f1f1;\n}\n\n/* Show the dropdown menu on hover */\n.dropdown:hover .dropdown-content {\n  display: block;\n}\n\n/* Change the background color of the dropdown button when the dropdown content is shown */\n.dropdown:hover .dropbtn {\n  background-color: #3e8e41;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\nnav.top-navigation a.filters {\n    line-height: 31px;\n    margin-top: 20px;\n    width: 75px;\n    height: 35px;\n}\nnav.top-navigation a.filters img {\n      display: none;\n}\nnav.top-navigation a.filters.active img.chevron-active {\n      display: none;\n}\nnav.top-navigation span.clear-filters {\n    display: none;\n}\nnav.top-navigation span.login {\n    display: none;\n}\nnav.top-navigation img.hamburger {\n    margin-top: 26px;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
+exports.push([module.i, "\nnav.top-navigation {\n  background-color: #FFFFFF;\n  height: 75px;\n  -webkit-box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n          box-shadow: 0 2px 4px 0 rgba(3, 27, 78, 0.1);\n  z-index: 9999;\n  position: fixed;\n  top: 0;\n  left: 0;\n  right: 0;\n}\nnav.top-navigation a.filters {\n    cursor: pointer;\n    color: #2c9a38;\n    width: 140px;\n    height: 45px;\n    border: 2px solid #2c9a38;\n    border-radius: 3px;\n    text-transform: uppercase;\n    display: block;\n    float: left;\n    text-align: center;\n    line-height: 41px;\n    margin-top: 15px;\n    margin-left: 20px;\n    font-family: \"Lato\", sans-serif;\n    font-weight: bold;\n    font-size: 16px;\n}\nnav.top-navigation a.filters img {\n      display: inline-block;\n      vertical-align: middle;\n      margin-right: 10px;\n      height: 13px;\n}\nnav.top-navigation a.filters img.list {\n        -webkit-transform: rotate(-90deg);\n                transform: rotate(-90deg);\n}\nnav.top-navigation a.filters img.chevron-active {\n      display: none;\n}\nnav.top-navigation a.filters.active {\n      background-color: #2c9a38;\n      color: white;\n}\nnav.top-navigation a.filters.active img.chevron {\n        display: none;\n}\nnav.top-navigation a.filters.active img.chevron-active {\n        display: inline-block;\n}\nnav.top-navigation a.filters.active img.chevron-active.list {\n          -webkit-transform: rotate(-90deg);\n                  transform: rotate(-90deg);\n}\nnav.top-navigation a.filters span.filter-count-active {\n      display: inline-block;\n      margin-left: 5px;\n}\nnav.top-navigation span.clear-filters {\n    font-size: 16px;\n    color: #054E7A;\n    font-family: \"Lato\", sans-serif;\n    cursor: pointer;\n    margin-left: 15px;\n    display: block;\n    float: left;\n    margin-top: 25px;\n}\nnav.top-navigation span.clear-filters img {\n      margin-right: 10px;\n      float: left;\n      margin-top: 6px;\n}\nnav.top-navigation .chevron-lang {\n    -webkit-transform: rotateZ(90deg);\n            transform: rotateZ(90deg);\n    width: 6px;\n    /* color: black; */\n    margin: 5px;\n}\nnav.top-navigation .logo {\n    margin: auto;\n    margin-top: 20px;\n    margin-bottom: 22.5px;\n    margin-right: 10px;\n    display: inline-block;\n    font-size: 25px;\n    font-weight: 600;\n    color: #2c9a38;\n}\nnav.top-navigation img.hamburger {\n    float: right;\n    margin-right: 18px;\n    margin-top: 30px;\n    cursor: pointer;\n}\nnav.top-navigation img.avatar {\n    float: right;\n    margin-right: 20px;\n    width: 40px;\n    height: 40px;\n    border-radius: 20px;\n    margin-top: 18px;\n}\nnav.top-navigation:after {\n    content: \"\";\n    display: table;\n    clear: both;\n}\nnav.top-navigation span.login {\n    font-family: \"Lato\", sans-serif;\n    font-size: 16px;\n    text-transform: uppercase;\n    color: black;\n    font-weight: bold;\n    float: right;\n    margin-top: 27px;\n    margin-right: 15px;\n    cursor: pointer;\n}\n.dropdown {\n  position: relative;\n  display: inline-block;\n}\n\n/* Dropdown Content (Hidden by Default) */\n.dropdown-content {\n  display: none;\n  position: absolute;\n  background-color: #f9f9f9;\n  min-width: 160px;\n  -webkit-box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);\n          box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);\n  z-index: 1;\n}\n\n/* Links inside the dropdown */\n.dropdown-content a {\n  color: black;\n  padding: 12px 16px;\n  text-decoration: none;\n  display: block;\n}\n\n/* Change color of dropdown links on hover */\n.dropdown-content a:hover {\n  background-color: #f1f1f1;\n}\n\n/* Show the dropdown menu on hover */\n.dropdown:hover .dropdown-content {\n  display: block;\n}\n\n/* Change the background color of the dropdown button when the dropdown content is shown */\n.dropdown:hover .dropbtn {\n  background-color: #3e8e41;\n}\n\n/* Small only */\n@media screen and (max-width: 39.9375em) {\nnav.top-navigation a.filters {\n    line-height: 31px;\n    margin-top: 20px;\n    width: 75px;\n    height: 35px;\n}\nnav.top-navigation a.filters img {\n      display: none;\n}\nnav.top-navigation a.filters.active img.chevron-active {\n      display: none;\n}\nnav.top-navigation span.clear-filters {\n    display: none;\n}\nnav.top-navigation span.login {\n    display: none;\n}\nnav.top-navigation img.hamburger {\n    margin-top: 26px;\n}\n}\n\n/* Medium only */\n/* Large only */\n", ""]);
 
 // exports
 
@@ -14020,7 +14020,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv.loader {\n  margin: auto;\n  vertical-align: middle;\n}\nsvg path,\nsvg rect {\n  fill: #cd8c00;\n}\n", ""]);
+exports.push([module.i, "\ndiv.loader {\n  margin: auto;\n  vertical-align: middle;\n}\nsvg path,\nsvg rect {\n  fill: #2c9a38;\n}\n", ""]);
 
 // exports
 
@@ -14050,7 +14050,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\ndiv#cafe-map-container {\n  position: absolute;\n  top: 75px;\n  left: 0px;\n  right: 0px;\n  bottom: 0px;\n}\ndiv#cafe-map-container div#cafe-map {\n    position: absolute;\n    top: 0px;\n    left: 0px;\n    right: 0px;\n    bottom: 0px;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-name {\n    display: block;\n    text-align: center;\n    color: #7F5F2A;\n    font-family: 'Josefin Sans', sans-serif;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address {\n    display: block;\n    text-align: center;\n    margin-top: 5px;\n    color: #A0A0A0;\n    font-family: 'Lato', sans-serif;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address span.street {\n      font-size: 14px;\n      display: block;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address span.city {\n      font-size: 12px;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address span.state {\n      font-size: 12px;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address span.zip {\n      font-size: 12px;\n      display: block;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address a {\n      color: #cd8c00;\n      font-weight: bold;\n}\n", ""]);
+exports.push([module.i, "\ndiv#cafe-map-container {\n  position: absolute;\n  top: 75px;\n  left: 0px;\n  right: 0px;\n  bottom: 0px;\n}\ndiv#cafe-map-container div#cafe-map {\n    position: absolute;\n    top: 0px;\n    left: 0px;\n    right: 0px;\n    bottom: 0px;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-name {\n    display: block;\n    text-align: center;\n    color: #7F5F2A;\n    font-family: 'Josefin Sans', sans-serif;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address {\n    display: block;\n    text-align: center;\n    margin-top: 5px;\n    color: #A0A0A0;\n    font-family: 'Lato', sans-serif;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address span.street {\n      font-size: 14px;\n      display: block;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address span.city {\n      font-size: 12px;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address span.state {\n      font-size: 12px;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address span.zip {\n      font-size: 12px;\n      display: block;\n}\ndiv#cafe-map-container div.cafe-info-window div.cafe-address a {\n      color: #2c9a38;\n      font-weight: bold;\n}\n", ""]);
 
 // exports
 
@@ -60078,7 +60078,7 @@ var render = function() {
                     _c("img", {
                       attrs: { src: "/img/clear-filters-icon.svg" }
                     }),
-                    _vm._v(" Clear filters\n            ")
+                    _vm._v(" Wyczyść filtry\n            ")
                   ]
                 ),
                 _vm._v(" "),
@@ -60088,7 +60088,7 @@ var render = function() {
                     { staticClass: "large-12 medium-12 small-12 cell" },
                     [
                       _c("label", { staticClass: "filter-label" }, [
-                        _vm._v("Search by name or location")
+                        _vm._v("Szukaj według nazwy lub lokalizacji")
                       ])
                     ]
                   )
@@ -60128,7 +60128,7 @@ var render = function() {
                       { staticClass: "large-12 medium-12 small-12 cell" },
                       [
                         _c("label", { staticClass: "filter-label" }, [
-                          _vm._v("Location Types")
+                          _vm._v("Typy")
                         ])
                       ]
                     )
@@ -60154,7 +60154,7 @@ var render = function() {
                           },
                           [
                             _vm._v(
-                              "\n                    All Locations\n                  "
+                              "\n                    Zagrożenia\n                  "
                             )
                           ]
                         ),
@@ -60173,7 +60173,7 @@ var render = function() {
                           },
                           [
                             _vm._v(
-                              "\n                    Roasters\n                  "
+                              "\n                    Inicjatywy\n                  "
                             )
                           ]
                         ),
@@ -60192,7 +60192,7 @@ var render = function() {
                           },
                           [
                             _vm._v(
-                              "\n                    Cafes\n                  "
+                              "\n                    Potrzeby\n                  "
                             )
                           ]
                         )
@@ -60340,195 +60340,6 @@ var render = function() {
                   },
                   [_vm._v("Desc")]
                 )
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { attrs: { id: "brew-methods-container" } }, [
-              _c("div", { staticClass: "grid-x grid-padding-x" }, [
-                _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-                  _c("label", { staticClass: "filter-label" }, [
-                    _vm._v("Brew Methods")
-                  ])
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "grid-x grid-padding-x" }, [
-                _c(
-                  "div",
-                  { staticClass: "large-12 medium-12 small-12 cell" },
-                  _vm._l(_vm.brewMethods, function(method) {
-                    return method.cafes_count > 0
-                      ? _c(
-                          "div",
-                          {
-                            staticClass: "brew-method option",
-                            class: {
-                              active:
-                                _vm.brewMethodsFilter.indexOf(method.id) >= 0
-                            },
-                            on: {
-                              click: function($event) {
-                                _vm.toggleBrewMethodFilter(method.id)
-                              }
-                            }
-                          },
-                          [
-                            _c("div", { staticClass: "option-container" }, [
-                              _c("img", {
-                                staticClass: "option-icon",
-                                attrs: { src: method.icon + ".svg" }
-                              }),
-                              _vm._v(" "),
-                              _c("span", { staticClass: "option-name" }, [
-                                _vm._v(_vm._s(method.method))
-                              ])
-                            ])
-                          ]
-                        )
-                      : _vm._e()
-                  })
-                )
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { attrs: { id: "drink-options-container" } }, [
-              _c("div", { staticClass: "grid-x grid-padding-x" }, [
-                _c("div", { staticClass: "large-6 medium-6 small-12 cell" }, [
-                  _c("label", { staticClass: "filter-label" }, [
-                    _vm._v("Drink Options")
-                  ]),
-                  _vm._v(" "),
-                  _c(
-                    "div",
-                    {
-                      staticClass: "drink-option option",
-                      class: { active: _vm.hasMatcha },
-                      on: {
-                        click: function($event) {
-                          _vm.toggleMatchaFilter()
-                        }
-                      }
-                    },
-                    [
-                      _c("div", { staticClass: "option-container" }, [
-                        _c("img", {
-                          staticClass: "option-icon",
-                          attrs: { src: "/img/icons/matcha-latte.svg" }
-                        }),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "option-name" }, [
-                          _vm._v("Matcha")
-                        ])
-                      ])
-                    ]
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "div",
-                    {
-                      staticClass: "drink-option option",
-                      class: { active: _vm.hasTea },
-                      on: {
-                        click: function($event) {
-                          _vm.toggleTeaFilter()
-                        }
-                      }
-                    },
-                    [
-                      _c("div", { staticClass: "option-container" }, [
-                        _c("img", {
-                          staticClass: "option-icon",
-                          attrs: { src: "/img/icons/tea-bag.svg" }
-                        }),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "option-name" }, [
-                          _vm._v("Tea")
-                        ])
-                      ])
-                    ]
-                  )
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "large-6 medium-6 small-12 cell" }, [
-                  _c(
-                    "div",
-                    {
-                      directives: [
-                        {
-                          name: "show",
-                          rawName: "v-show",
-                          value:
-                            _vm.activeLocationFilter == "roasters" ||
-                            _vm.activeLocationFilter == "all",
-                          expression:
-                            "activeLocationFilter == 'roasters' || activeLocationFilter == 'all'"
-                        }
-                      ],
-                      staticClass: "grid-x grid-padding-x"
-                    },
-                    [
-                      _c(
-                        "div",
-                        { staticClass: "large-12 medium-12 small-12 cell" },
-                        [
-                          _c("label", { staticClass: "filter-label" }, [
-                            _vm._v("Has Subscription Service")
-                          ])
-                        ]
-                      )
-                    ]
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "div",
-                    {
-                      directives: [
-                        {
-                          name: "show",
-                          rawName: "v-show",
-                          value:
-                            _vm.activeLocationFilter == "roasters" ||
-                            _vm.activeLocationFilter == "all",
-                          expression:
-                            "activeLocationFilter == 'roasters' || activeLocationFilter == 'all'"
-                        }
-                      ],
-                      staticClass: "grid-x grid-padding-x"
-                    },
-                    [
-                      _c(
-                        "div",
-                        { staticClass: "large-12 medium-12 small-12 cell" },
-                        [
-                          _c(
-                            "div",
-                            {
-                              staticClass: "subscription option",
-                              class: { active: _vm.hasSubscription },
-                              on: {
-                                click: function($event) {
-                                  _vm.toggleSubscriptionFilter()
-                                }
-                              }
-                            },
-                            [
-                              _c("div", { staticClass: "option-container" }, [
-                                _c("img", {
-                                  staticClass: "option-icon",
-                                  attrs: { src: "/img/icons/coffee-pack.svg" }
-                                }),
-                                _vm._v(" "),
-                                _c("span", { staticClass: "option-name" }, [
-                                  _vm._v("Coffee Subscription")
-                                ])
-                              ])
-                            ]
-                          )
-                        ]
-                      )
-                    ]
-                  )
-                ])
               ])
             ])
           ])
@@ -62933,7 +62744,7 @@ var render = function() {
         _vm._v(" "),
         _c("div", { staticClass: "grid-x" }, [
           _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-            _c("label", [_vm._v("City")]),
+            _c("label", [_vm._v("Miasto")]),
             _vm._v(" "),
             _c("span", { staticClass: "action-content" }, [
               _vm._v(_vm._s(_vm.content.city))
@@ -63107,192 +62918,7 @@ var render = function() {
                   _vm.hideNav()
                 }
               }
-            }),
-            _vm._v(" "),
-            _c(
-              "div",
-              { staticClass: "side-bar-link" },
-              [
-                _c(
-                  "router-link",
-                  {
-                    attrs: { to: { name: "cafes" } },
-                    nativeOn: {
-                      click: function($event) {
-                        _vm.hideNav()
-                      }
-                    }
-                  },
-                  [_vm._v("\n          Cafes\n        ")]
-                )
-              ],
-              1
-            ),
-            _vm._v(" "),
-            _vm.user != "" && _vm.userLoadStatus == 2
-              ? _c(
-                  "div",
-                  { staticClass: "side-bar-link" },
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        attrs: { to: { name: "newcafe" } },
-                        nativeOn: {
-                          click: function($event) {
-                            _vm.hideNav()
-                          }
-                        }
-                      },
-                      [_vm._v("\n          Add Cafe\n        ")]
-                    )
-                  ],
-                  1
-                )
-              : _vm._e(),
-            _vm._v(" "),
-            _vm.user != "" && _vm.userLoadStatus == 2
-              ? _c(
-                  "div",
-                  { staticClass: "side-bar-link" },
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        attrs: { to: { name: "profile" } },
-                        nativeOn: {
-                          click: function($event) {
-                            _vm.hideNav()
-                          }
-                        }
-                      },
-                      [_vm._v("\n          My Profile\n        ")]
-                    )
-                  ],
-                  1
-                )
-              : _vm._e(),
-            _vm._v(" "),
-            _vm.user != "" &&
-            _vm.userLoadStatus == 2 &&
-            _vm.user.permission >= 1
-              ? _c(
-                  "div",
-                  { staticClass: "side-bar-link" },
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        attrs: { to: { name: "admin" } },
-                        nativeOn: {
-                          click: function($event) {
-                            _vm.hideNav()
-                          }
-                        }
-                      },
-                      [_vm._v("\n          Admin\n        ")]
-                    )
-                  ],
-                  1
-                )
-              : _vm._e(),
-            _vm._v(" "),
-            _c("div", { staticClass: "side-bar-link" }, [
-              _vm.user != "" && _vm.userLoadStatus == 2
-                ? _c(
-                    "a",
-                    {
-                      directives: [
-                        {
-                          name: "show",
-                          rawName: "v-show",
-                          value: _vm.userLoadStatus == 2,
-                          expression: "userLoadStatus == 2"
-                        }
-                      ],
-                      on: {
-                        click: function($event) {
-                          _vm.logout()
-                        }
-                      }
-                    },
-                    [_vm._v("Sign Out")]
-                  )
-                : _vm._e(),
-              _vm._v(" "),
-              _vm.user == ""
-                ? _c(
-                    "a",
-                    {
-                      on: {
-                        click: function($event) {
-                          _vm.login()
-                        }
-                      }
-                    },
-                    [_vm._v("Sign In")]
-                  )
-                : _vm._e()
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "side-bar-link" }, [
-              _c(
-                "a",
-                {
-                  attrs: {
-                    href:
-                      "https://github.com/serversideup/roastandbrew/issues/new/choose",
-                    target: "_blank"
-                  }
-                },
-                [_vm._v("\n          Report a Bug\n        ")]
-              )
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "side-bar-link" }, [
-              _c(
-                "a",
-                {
-                  attrs: {
-                    href:
-                      "https://serversideup.net/series/api-driven-development-laravel-vuejs/",
-                    target: "_blank"
-                  }
-                },
-                [_vm._v("\n          About This Project\n        ")]
-              )
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "side-bar-link" }, [
-              _c(
-                "a",
-                {
-                  attrs: {
-                    href: "https://github.com/serversideup/roastandbrew",
-                    target: "_blank"
-                  }
-                },
-                [_vm._v("\n          View on Github\n        ")]
-              )
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "ssu-container" }, [
-              _c("span", { staticClass: "ssu-built-on" }, [
-                _vm._v("Learn how this app was built on")
-              ]),
-              _vm._v(" "),
-              _c(
-                "a",
-                {
-                  attrs: {
-                    href:
-                      "https://serversideup.net/courses/api-driven-development-laravel-vuejs/",
-                    target: "_blank"
-                  }
-                },
-                [_c("img", { attrs: { src: "/img/ssu-logo.png" } })]
-              )
-            ])
+            })
           ]
         )
       ])
@@ -63941,7 +63567,7 @@ var render = function() {
         _vm._v(" "),
         _c("div", { staticClass: "grid-x grid-padding-x" }, [
           _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-            _c("span", { staticClass: "filters-header" }, [_vm._v("City")]),
+            _c("span", { staticClass: "filters-header" }, [_vm._v("Miasto")]),
             _vm._v(" "),
             _c(
               "select",
@@ -63986,7 +63612,7 @@ var render = function() {
         _vm._v(" "),
         _c("div", { staticClass: "grid-x grid-padding-x" }, [
           _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-            _c("span", { staticClass: "filters-header" }, [_vm._v("Test")])
+            _c("span", { staticClass: "filters-header" }, [_vm._v("Wyszukuj")])
           ])
         ]),
         _vm._v(" "),
@@ -64018,7 +63644,7 @@ var render = function() {
                 },
                 [
                   _c("img", { attrs: { src: "/img/clear-filters-icon.svg" } }),
-                  _vm._v(" Clear filters\n        ")
+                  _vm._v(" Wyczyść filtry\n        ")
                 ]
               ),
               _vm._v(" "),
@@ -64050,9 +63676,7 @@ var render = function() {
         _c("div", { attrs: { id: "location-type-container" } }, [
           _c("div", { staticClass: "grid-x grid-padding-x" }, [
             _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-              _c("label", { staticClass: "filter-label" }, [
-                _vm._v("Location Types")
-              ])
+              _c("label", { staticClass: "filter-label" }, [_vm._v("Typy")])
             ])
           ]),
           _vm._v(" "),
@@ -64069,7 +63693,7 @@ var render = function() {
                     }
                   }
                 },
-                [_vm._v("\n            All Locations\n          ")]
+                [_vm._v("\n            Zagrożenia\n          ")]
               ),
               _c(
                 "div",
@@ -64082,7 +63706,7 @@ var render = function() {
                     }
                   }
                 },
-                [_vm._v("\n            Events\n          ")]
+                [_vm._v("\n            Inicjatywy\n          ")]
               ),
               _c(
                 "div",
@@ -64095,248 +63719,7 @@ var render = function() {
                     }
                   }
                 },
-                [_vm._v("\n            Trash place\n          ")]
-              )
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            directives: [
-              {
-                name: "show",
-                rawName: "v-show",
-                value: _vm.user != "" && _vm.userLoadStatus == 2,
-                expression: "user != '' && userLoadStatus == 2"
-              }
-            ],
-            staticClass: "grid-x grid-padding-x",
-            attrs: { id: "only-liked-container" }
-          },
-          [
-            _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-              _c("input", {
-                directives: [
-                  {
-                    name: "model",
-                    rawName: "v-model",
-                    value: _vm.onlyLiked,
-                    expression: "onlyLiked"
-                  }
-                ],
-                attrs: { type: "checkbox" },
-                domProps: {
-                  checked: Array.isArray(_vm.onlyLiked)
-                    ? _vm._i(_vm.onlyLiked, null) > -1
-                    : _vm.onlyLiked
-                },
-                on: {
-                  change: function($event) {
-                    var $$a = _vm.onlyLiked,
-                      $$el = $event.target,
-                      $$c = $$el.checked ? true : false
-                    if (Array.isArray($$a)) {
-                      var $$v = null,
-                        $$i = _vm._i($$a, $$v)
-                      if ($$el.checked) {
-                        $$i < 0 && (_vm.onlyLiked = $$a.concat([$$v]))
-                      } else {
-                        $$i > -1 &&
-                          (_vm.onlyLiked = $$a
-                            .slice(0, $$i)
-                            .concat($$a.slice($$i + 1)))
-                      }
-                    } else {
-                      _vm.onlyLiked = $$c
-                    }
-                  }
-                }
-              }),
-              _vm._v(" "),
-              _c("span", { staticClass: "liked-location-label" }, [
-                _vm._v("Show only locations that I like")
-              ])
-            ])
-          ]
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            directives: [
-              {
-                name: "show",
-                rawName: "v-show",
-                value:
-                  _vm.activeLocationFilter == "roasters" ||
-                  _vm.activeLocationFilter == "all",
-                expression:
-                  "activeLocationFilter == 'roasters' || activeLocationFilter == 'all'"
-              }
-            ],
-            staticClass: "grid-x grid-padding-x"
-          },
-          [
-            _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-              _c("label", { staticClass: "filter-label" }, [
-                _vm._v("Has Subscription Service")
-              ])
-            ])
-          ]
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            directives: [
-              {
-                name: "show",
-                rawName: "v-show",
-                value:
-                  _vm.activeLocationFilter == "roasters" ||
-                  _vm.activeLocationFilter == "all",
-                expression:
-                  "activeLocationFilter == 'roasters' || activeLocationFilter == 'all'"
-              }
-            ],
-            staticClass: "grid-x grid-padding-x"
-          },
-          [
-            _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-              _c(
-                "div",
-                {
-                  staticClass: "subscription option",
-                  class: { active: _vm.hasSubscription },
-                  on: {
-                    click: function($event) {
-                      _vm.toggleSubscriptionFilter()
-                    }
-                  }
-                },
-                [
-                  _c("div", { staticClass: "option-container" }, [
-                    _c("img", {
-                      staticClass: "option-icon",
-                      attrs: { src: "/img/icons/coffee-pack.svg" }
-                    }),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "option-name" }, [
-                      _vm._v("Coffee Subscription")
-                    ])
-                  ])
-                ]
-              )
-            ])
-          ]
-        ),
-        _vm._v(" "),
-        _c("div", { attrs: { id: "brew-methods-container" } }, [
-          _c("div", { staticClass: "grid-x grid-padding-x" }, [
-            _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-              _c("label", { staticClass: "filter-label" }, [
-                _vm._v("Brew Methods")
-              ])
-            ])
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "grid-x grid-padding-x" }, [
-            _c(
-              "div",
-              { staticClass: "large-12 medium-12 small-12 cell" },
-              _vm._l(_vm.brewMethods, function(method) {
-                return method.cafes_count > 0
-                  ? _c(
-                      "div",
-                      {
-                        staticClass: "brew-method option",
-                        class: {
-                          active: _vm.brewMethodsFilter.indexOf(method.id) >= 0
-                        },
-                        on: {
-                          click: function($event) {
-                            _vm.toggleBrewMethodFilter(method.id)
-                          }
-                        }
-                      },
-                      [
-                        _c("div", { staticClass: "option-container" }, [
-                          _c("img", {
-                            staticClass: "option-icon",
-                            attrs: { src: method.icon + ".svg" }
-                          }),
-                          _vm._v(" "),
-                          _c("span", { staticClass: "option-name" }, [
-                            _vm._v(_vm._s(method.method))
-                          ])
-                        ])
-                      ]
-                    )
-                  : _vm._e()
-              })
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { attrs: { id: "drink-options-container" } }, [
-          _c("div", { staticClass: "grid-x grid-padding-x" }, [
-            _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-              _c("label", { staticClass: "filter-label" }, [
-                _vm._v("Drink Options")
-              ])
-            ])
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "grid-x grid-padding-x" }, [
-            _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-              _c(
-                "div",
-                {
-                  staticClass: "drink-option option",
-                  class: { active: _vm.hasMatcha },
-                  on: {
-                    click: function($event) {
-                      _vm.toggleMatchaFilter()
-                    }
-                  }
-                },
-                [
-                  _c("div", { staticClass: "option-container" }, [
-                    _c("img", {
-                      staticClass: "option-icon",
-                      attrs: { src: "/img/icons/matcha-latte.svg" }
-                    }),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "option-name" }, [
-                      _vm._v("Matcha")
-                    ])
-                  ])
-                ]
-              ),
-              _vm._v(" "),
-              _c(
-                "div",
-                {
-                  staticClass: "drink-option option",
-                  class: { active: _vm.hasTea },
-                  on: {
-                    click: function($event) {
-                      _vm.toggleTeaFilter()
-                    }
-                  }
-                },
-                [
-                  _c("div", { staticClass: "option-container" }, [
-                    _c("img", {
-                      staticClass: "option-icon",
-                      attrs: { src: "/img/icons/tea-bag.svg" }
-                    }),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "option-name" }, [_vm._v("Tea")])
-                  ])
-                ]
+                [_vm._v("\n            Potrzeby\n          ")]
               )
             ])
           ])
@@ -65793,33 +65176,14 @@ var render = function() {
         },
         [
           _c("div", { staticClass: "login-label" }, [
-            _vm._v("Sign in using your social profile")
+            _vm._v("Zaloguj się, używając swojego profilu społecznościowego")
           ]),
           _vm._v(" "),
           _vm._m(0),
           _vm._v(" "),
           _vm._m(1),
           _vm._v(" "),
-          _vm._m(2),
-          _vm._v(" "),
-          _c("div", { staticClass: "login-label" }, [
-            _vm._v("About this project")
-          ]),
-          _vm._v(" "),
-          _vm._m(3),
-          _vm._v(" "),
-          _c(
-            "a",
-            {
-              staticClass: "learn-more-button",
-              attrs: {
-                href:
-                  "https://serversideup.net/series/api-driven-development-laravel-vuejs/",
-                target: "_blank"
-              }
-            },
-            [_vm._v("Learn How This App Was Built")]
-          )
+          _vm._m(2)
         ]
       )
     ]
@@ -65855,22 +65219,6 @@ var staticRenderFns = [
       { staticClass: "social-link", attrs: { href: "/login/facebook" } },
       [_c("img", { attrs: { src: "/img/facebook-login.svg" } })]
     )
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", { staticClass: "learn-more-description" }, [
-      _vm._v("Roast is a project of "),
-      _c(
-        "a",
-        { attrs: { href: "https://serversideup.net", target: "_blank" } },
-        [_vm._v("Server Side Up")]
-      ),
-      _vm._v(
-        ", where we provide resources for people who want to learn software development. Learn more how this app below."
-      )
-    ])
   }
 ]
 render._withStripped = true
@@ -66674,7 +66022,7 @@ var render = function() {
               class: { list: _vm.cafesView == "list" },
               attrs: { src: "/img/chevron-right-active.svg" }
             }),
-            _vm._v(" Filters\n        "),
+            _vm._v(" Filtry\n        "),
             _c(
               "span",
               {
@@ -66713,7 +66061,7 @@ var render = function() {
           },
           [
             _c("img", { attrs: { src: "/img/clear-filters-icon.svg" } }),
-            _vm._v(" Clear filters\n      ")
+            _vm._v(" Wyczyść filtry\n      ")
           ]
         )
       ]),
@@ -66723,10 +66071,8 @@ var render = function() {
         { staticClass: "large-4 medium-4 small-4 cell" },
         [
           _c("router-link", { attrs: { to: { name: "cafes" } } }, [
-            _c("span", { staticClass: "logo" }, [_vm._v("Trashbusters")])
-          ]),
-          _vm._v(" "),
-          _vm._m(0)
+            _c("span", { staticClass: "logo" }, [_vm._v("EkoSlask")])
+          ])
         ],
         1
       ),
@@ -66775,28 +66121,7 @@ var render = function() {
     ])
   ])
 }
-var staticRenderFns = [
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "language dropdown" }, [
-      _c("span", [
-        _vm._v("PL "),
-        _c("img", {
-          staticClass: "chevron-lang",
-          attrs: { src: "/img/chevron-right.svg" }
-        })
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "dropdown-content" }, [
-        _c("a", { attrs: { href: "#" } }, [_vm._v("English")]),
-        _vm._v(" "),
-        _c("a", { attrs: { href: "#" } }, [_vm._v("Polski")])
-      ])
-    ])
-  }
-]
+var staticRenderFns = []
 render._withStripped = true
 module.exports = { render: render, staticRenderFns: staticRenderFns }
 if (false) {

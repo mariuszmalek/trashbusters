@@ -32,7 +32,7 @@
         </div>
         <div class="grid-x">
           <div class="large-12 medium-12 small-12 cell">
-            <label>City</label>
+            <label>Miasto</label>
             <span class="action-content">{{ content.city }}</span>
           </div>
         </div>

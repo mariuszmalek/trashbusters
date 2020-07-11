@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'meta' => 'We are trashbusters'
+    'meta' => 'We are EkoSlask'
 ];

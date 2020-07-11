@@ -165,7 +165,7 @@
 
       <div class="grid-x grid-padding-x">
         <div class="large-12 medium-12 small-12 cell">
-          <span class="filters-header">City</span>
+          <span class="filters-header">Miasto</span>
           <select v-model="cityFilter">
             <option value=""></option>
             <option v-for="city in cities" v-bind:value="city.id">{{ city.name }}, {{ city.state }}</option>
@@ -175,14 +175,14 @@
 
       <div class="grid-x grid-padding-x">
         <div class="large-12 medium-12 small-12 cell">
-          <span class="filters-header">Test</span>
+          <span class="filters-header">Wyszukuj</span>
         </div>
       </div>
 
       <div class="grid-x grid-padding-x" id="text-container">
         <div class="large-12 medium-12 small-12 cell">
           <span class="clear-filters" v-show="showFilters" v-on:click="clearFilters()">
-            <img src="/img/clear-filters-icon.svg"/> Clear filters
+            <img src="/img/clear-filters-icon.svg"/> Wyczyść filtry
           </span>
           <input type="text" class="search" v-model="textSearch" placeholder="Find locations by name"/>
         </div>
@@ -191,24 +191,24 @@
       <div id="location-type-container">
         <div class="grid-x grid-padding-x">
           <div class="large-12 medium-12 small-12 cell">
-            <label class="filter-label">Location Types</label>
+            <label class="filter-label">Typy</label>
           </div>
         </div>
 
         <div class="grid-x grid-padding-x">
           <div class="large-12 medium-12 small-12 cell">
             <div class="location-filter all-locations" v-bind:class="{ 'active': activeLocationFilter == 'all' }" v-on:click="setActiveLocationFilter('all')">
-              All Locations
+              Zagrożenia
             </div><div class="location-filter roasters" v-bind:class="{ 'active': activeLocationFilter == 'roasters' }" v-on:click="setActiveLocationFilter('roasters')">
-              Events
+              Inicjatywy
             </div><div class="location-filter cafes" v-bind:class="{ 'active': activeLocationFilter == 'cafes' }" v-on:click="setActiveLocationFilter('cafes')">
-              Trash place
+              Potrzeby
             </div>
           </div>
         </div>
       </div>
 
-      <div class="grid-x grid-padding-x" id="only-liked-container" v-show="user != '' && userLoadStatus == 2">
+      <!-- <div class="grid-x grid-padding-x" id="only-liked-container" v-show="user != '' && userLoadStatus == 2">
         <div class="large-12 medium-12 small-12 cell">
           <input type="checkbox" v-model="onlyLiked"/> <span class="liked-location-label">Show only locations that I like</span>
         </div>
@@ -228,9 +228,9 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
-      <div id="brew-methods-container">
+      <!-- <div id="brew-methods-container">
         <div class="grid-x grid-padding-x">
           <div class="large-12 medium-12 small-12 cell">
             <label class="filter-label">Brew Methods</label>
@@ -269,7 +269,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </transition>

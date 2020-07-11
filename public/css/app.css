@@ -82,7 +82,7 @@ div.option {
 
 div.option.active {
   color: white;
-  background-color: #cd8c00;
+  background-color: #2c9a38;
 }
 
 div.option div.option-container {
@@ -122,7 +122,7 @@ div.location-type img {
 }
 
 div.location-type.roaster {
-  background-color: #cd8c00;
+  background-color: #2c9a38;
 }
 
 div.location-type.cafe {
@@ -198,12 +198,12 @@ div.admin-tabs div.tab {
 
 div.admin-tabs div.tab:hover {
   color: white;
-  background-color: #cd8c00;
+  background-color: #2c9a38;
 }
 
 div.admin-tabs div.tab.active-tab {
   color: white;
-  background-color: #cd8c00;
+  background-color: #2c9a38;
 }
 
 div.list-header {

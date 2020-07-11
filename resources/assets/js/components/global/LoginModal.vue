@@ -99,7 +99,7 @@
 <template>
   <div id="login-modal" v-show="show" v-on:click="show = false">
     <div class="login-box" v-on:click.stop="">
-      <div class="login-label">Sign in using your social profile</div>
+      <div class="login-label">Zaloguj się, używając swojego profilu społecznościowego</div>
 
 			<a href="/login/google" class="social-link">
 				<img src="/img/google-login.svg"/>
@@ -113,11 +113,11 @@
 				<img src="/img/facebook-login.svg"/>
 			</a>
 
-      <div class="login-label">About this project</div>
+      <!-- <div class="login-label">About this project</div>
 
       <p class="learn-more-description">Roast is a project of <a href="https://serversideup.net" target="_blank">Server Side Up</a>, where we provide resources for people who want to learn software development. Learn more how this app below.</p>
 
-      <a class="learn-more-button" href="https://serversideup.net/series/api-driven-development-laravel-vuejs/" target="_blank">Learn How This App Was Built</a>
+      <a class="learn-more-button" href="https://serversideup.net/series/api-driven-development-laravel-vuejs/" target="_blank">Learn How This App Was Built</a> -->
 		</div>
   </div>
 </template>

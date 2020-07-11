@@ -99,7 +99,7 @@
       display: inline-block;
       font-size: 25px;
       font-weight: 600;
-      color: #cd8c00;
+      color: #2c9a38;
     }
 
     img.hamburger{
@@ -224,27 +224,27 @@
       <div class="large-4 medium-4 small-4 cell">
         <a class="filters" v-bind:class="{'active': showFilters}" v-on:click="toggleShowFilters()">
           <img class="chevron" v-bind:class="{'list' : cafesView == 'list'}" src="/img/chevron-right.svg"/>
-          <img class="chevron-active" v-bind:class="{'list' : cafesView == 'list'}" src="/img/chevron-right-active.svg"/> Filters
+          <img class="chevron-active" v-bind:class="{'list' : cafesView == 'list'}" src="/img/chevron-right-active.svg"/> Filtry
           <span class="filter-count-active" v-show="activeFilterCount > 0">({{ activeFilterCount }})</span>
         </a>
 
         <span class="clear-filters" v-show="showFilters" v-on:click="clearFilters()">
-          <img src="/img/clear-filters-icon.svg"/> Clear filters
+          <img src="/img/clear-filters-icon.svg"/> Wyczyść filtry
         </span>
 
       </div>
       <div class="large-4 medium-4 small-4 cell">
         <router-link :to="{ name: 'cafes'}">
-          <span class="logo">Trashbusters</span>
+          <span class="logo">EkoSlask</span>
         </router-link>
 
-        <div class="language dropdown">
+        <!-- <div class="language dropdown">
           <span>PL <img src="/img/chevron-right.svg" class="chevron-lang"></span>
           <div class="dropdown-content">
             <a href="#">English</a>
             <a href="#">Polski</a>
           </div>
-        </div>
+        </div> -->
 
       </div>
       <div class="large-4 medium-4 small-4 cell">

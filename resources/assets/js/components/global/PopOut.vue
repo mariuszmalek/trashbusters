@@ -15,7 +15,7 @@
       right: 0;
       bottom: 0;
       top: 0;
-      width: 250px;
+      width: 40%;
       background-color: white;
       box-shadow: -2px 0 4px 0 rgba(3,27,78,0.10);
       padding: 30px;
@@ -65,7 +65,7 @@
     <transition name="slide-in-right">
       <div class="pop-out-side-bar" v-show="showRightNav" v-on:click.stop>
         <img src="/img/close-menu.svg" class="close-menu-icon" v-on:click="hideNav()"/>
-        <div class="side-bar-link">
+        <!-- <div class="side-bar-link">
           <router-link :to="{ name: 'cafes' }" v-on:click.native="hideNav()">
             Cafes
           </router-link>
@@ -88,8 +88,8 @@
         <div class="side-bar-link">
           <a v-if="user != '' && userLoadStatus == 2" v-show="userLoadStatus == 2" v-on:click="logout()">Sign Out</a>
           <a v-if="user == ''" v-on:click="login()">Sign In</a>
-        </div>
-        <div class="side-bar-link">
+        </div> -->
+        <!-- <div class="side-bar-link">
           <a href="https://github.com/serversideup/roastandbrew/issues/new/choose" target="_blank">
             Report a Bug
           </a>
@@ -110,7 +110,7 @@
           <a href="https://serversideup.net/courses/api-driven-development-laravel-vuejs/" target="_blank">
             <img src="/img/ssu-logo.png"/>
           </a>
-        </div>
+        </div> -->
       </div>
     </transition>
   </div>

@@ -165,11 +165,11 @@
           <div class="grid-x grid-padding-x">
             <div class="large-6 medium-6 small-12 cell">
               <span class="clear-filters" v-show="showFilters" v-on:click="clearFilters()">
-                <img src="/img/clear-filters-icon.svg"/> Clear filters
+                <img src="/img/clear-filters-icon.svg"/> Wyczyść filtry
               </span>
               <div class="grid-x grid-padding-x">
                 <div class="large-12 medium-12 small-12 cell">
-                  <label class="filter-label">Search by name or location</label>
+                  <label class="filter-label">Szukaj według nazwy lub lokalizacji</label>
                 </div>
               </div>
               <input type="text" class="search" v-model="textSearch" placeholder="Find locations by name"/>
@@ -178,18 +178,18 @@
               <div id="location-type-container">
                 <div class="grid-x grid-padding-x">
                   <div class="large-12 medium-12 small-12 cell">
-                    <label class="filter-label">Location Types</label>
+                    <label class="filter-label">Typy</label>
                   </div>
                 </div>
 
                 <div class="grid-x grid-padding-x">
                   <div class="large-12 medium-12 small-12 cell">
                     <div class="location-filter all-locations" v-bind:class="{ 'active': activeLocationFilter == 'all' }" v-on:click="setActiveLocationFilter('all')">
-                      All Locations
+                      Zagrożenia
                     </div><div class="location-filter roasters" v-bind:class="{ 'active': activeLocationFilter == 'roasters' }" v-on:click="setActiveLocationFilter('roasters')">
-                      Roasters
+                      Inicjatywy
                     </div><div class="location-filter cafes" v-bind:class="{ 'active': activeLocationFilter == 'cafes' }" v-on:click="setActiveLocationFilter('cafes')">
-                      Cafes
+                      Potrzeby
                     </div>
                   </div>
                 </div>
@@ -217,7 +217,7 @@
             </div>
           </div>
 
-          <div id="brew-methods-container">
+          <!-- <div id="brew-methods-container">
             <div class="grid-x grid-padding-x">
               <div class="large-12 medium-12 small-12 cell">
                 <label class="filter-label">Brew Methods</label>
@@ -270,7 +270,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

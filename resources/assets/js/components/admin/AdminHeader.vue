@@ -19,7 +19,7 @@
       display: inline-block;
       font-size: 25px;
       font-weight: 600;
-      color: #cd8c00;
+      color: #2c9a38;
     }
 
     img.hamburger{

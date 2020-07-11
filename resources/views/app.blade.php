@@ -15,21 +15,21 @@
 
 		<link rel="icon" type="image/png" href="/favicon.png">
 
-		<title>Trashbusters - @lang('meta')</title>
-		<meta name="description" content="Welcome to Trashbusters! We help the coffee enthusiast find their next cup of coffee and teach developers how to develop apps!"/>
+		<title>EkoSlask - @lang('meta')</title>
+		<meta name="description" content="Welcome to EkoSlask! We help the coffee enthusiast find their next cup of coffee and teach developers how to develop apps!"/>
 		<link rel="canonical" href="https://roastandbrew.coffee/" />
 		<meta property="og:locale" content="en_US" />
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content="Roast - Helping the coffee enthusiast find their next cup of coffee" />
 		<meta property="og:url" content="https://roastandbrew.coffee/" />
-		<meta property="og:site_name" content="Trashbusters" />
+		<meta property="og:site_name" content="EkoSlask" />
 		<meta property="og:image" content="https://roastandbrew.coffee/img/og-roast.jpg" />
 		<meta property="og:image:secure_url" content="https://roastandbrew.coffee/img/og-roast.jpg" />
 		<meta property="og:image:width" content="1200" />
 		<meta property="og:image:height" content="630" />
 
 		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:description" content="Welcome to Trashbusters! We help the coffee enthusiast find their next cup of coffee and teach developers how to develop apps!" />
+		<meta name="twitter:description" content="Welcome to EkoSlask! We help the coffee enthusiast find their next cup of coffee and teach developers how to develop apps!" />
 		<meta name="twitter:title" content="Roast - Helping the coffee enthusiast find their next cup of coffee" />
 		<meta name="twitter:site" content="@roast_n_brew" />
 		<meta name="twitter:image" content="https://roastandbrew.coffee/img/og-roast.jpg" />
@@ -40,7 +40,7 @@
 				"@type":"WebSite",
 				"@id":"#website",
 				"url":"https:\/\/roastandbrew.coffee\/",
-				"name":"Trashbusters"
+				"name":"EkoSlask"
 			}
 		</script>
 		<script type='application/ld+json'>
@@ -54,7 +54,7 @@
 						"https:\/\/twitter.com\/roast_n_brew"
 					],
 				"@id":"https:\/\/roastandbrew.coffee\/#organization",
-				"name":"Trashbusters",
+				"name":"EkoSlask",
 				"logo":"https:\/\/roastandbrew.coffee\/img\/og-roast.jpg"
 			}
 		</script>
