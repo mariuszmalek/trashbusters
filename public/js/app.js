@@ -4714,6 +4714,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
@@ -62166,7 +62169,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "grid-x" }, [
       _c("div", { staticClass: "large-12 medium-12 small-12 cell" }, [
-        _c("span", { staticClass: "legend-title" }, [_vm._v("Legend")])
+        _c("span", { staticClass: "legend-title" }, [_vm._v("Legenda")])
       ]),
       _vm._v(" "),
       _c(
@@ -62174,7 +62177,7 @@ var staticRenderFns = [
         { staticClass: "large-12 medium-12 small-12 cell legend-row" },
         [
           _c("img", { attrs: { src: "/img/roaster-marker.svg" } }),
-          _vm._v(" Roasts Own Coffee\n    ")
+          _vm._v(" Zagrożenia\n    ")
         ]
       ),
       _vm._v(" "),
@@ -62183,7 +62186,16 @@ var staticRenderFns = [
         { staticClass: "large-12 medium-12 small-12 cell legend-row" },
         [
           _c("img", { attrs: { src: "/img/cafe-marker.svg" } }),
-          _vm._v(" Cafe\n    ")
+          _vm._v(" Inicjatywy\n    ")
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        { staticClass: "large-12 medium-12 small-12 cell legend-row" },
+        [
+          _c("img", { attrs: { src: "/img/cafe-marker.svg" } }),
+          _vm._v(" Potrzeby\n    ")
         ]
       )
     ])

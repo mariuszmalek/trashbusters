@@ -37,13 +37,16 @@
   <div id="map-legend" v-show="( !showFilters && cafesView == 'map' )">
     <div class="grid-x">
       <div class="large-12 medium-12 small-12 cell">
-        <span class="legend-title">Legend</span>
+        <span class="legend-title">Legenda</span>
       </div>
       <div class="large-12 medium-12 small-12 cell legend-row">
-        <img src="/img/roaster-marker.svg"/> Roasts Own Coffee
+        <img src="/img/roaster-marker.svg"/> Zagrożenia
       </div>
       <div class="large-12 medium-12 small-12 cell legend-row">
-        <img src="/img/cafe-marker.svg"/> Cafe
+        <img src="/img/cafe-marker.svg"/> Inicjatywy
+      </div>
+      <div class="large-12 medium-12 small-12 cell legend-row">
+        <img src="/img/cafe-marker.svg"/> Potrzeby
       </div>
     </div>
   </div>
