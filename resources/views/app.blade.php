@@ -16,48 +16,18 @@
 		<link rel="icon" type="image/png" href="/favicon.png">
 
 		<title>EkoSlask - @lang('meta')</title>
-		<meta name="description" content="Welcome to EkoSlask! We help the coffee enthusiast find their next cup of coffee and teach developers how to develop apps!"/>
-		<link rel="canonical" href="https://roastandbrew.coffee/" />
+		<meta name="description" content="Welcome to EkoSlask!"/>
+		<link rel="canonical" href="https://trashbusters.herokuapp.com" />
 		<meta property="og:locale" content="en_US" />
 		<meta property="og:type" content="website" />
-		<meta property="og:title" content="Roast - Helping the coffee enthusiast find their next cup of coffee" />
-		<meta property="og:url" content="https://roastandbrew.coffee/" />
+		<meta property="og:title" content="Trashbusters" />
+		<meta property="og:url" content="https://trashbusters.herokuapp.com" />
 		<meta property="og:site_name" content="EkoSlask" />
-		<meta property="og:image" content="https://roastandbrew.coffee/img/og-roast.jpg" />
-		<meta property="og:image:secure_url" content="https://roastandbrew.coffee/img/og-roast.jpg" />
+		<meta property="og:image" content="https://trashbusters.herokuapp.com/img/og-roast.jpg" />
+		<meta property="og:image:secure_url" content="https://trashbusters.herokuapp.com/img/og-roast.jpg" />
 		<meta property="og:image:width" content="1200" />
 		<meta property="og:image:height" content="630" />
 
-		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:description" content="Welcome to EkoSlask! We help the coffee enthusiast find their next cup of coffee and teach developers how to develop apps!" />
-		<meta name="twitter:title" content="Roast - Helping the coffee enthusiast find their next cup of coffee" />
-		<meta name="twitter:site" content="@roast_n_brew" />
-		<meta name="twitter:image" content="https://roastandbrew.coffee/img/og-roast.jpg" />
-
-		<script type='application/ld+json'>
-			{
-				"@context":"https:\/\/schema.org",
-				"@type":"WebSite",
-				"@id":"#website",
-				"url":"https:\/\/roastandbrew.coffee\/",
-				"name":"EkoSlask"
-			}
-		</script>
-		<script type='application/ld+json'>
-			{
-				"@context":"https:\/\/schema.org",
-				"@type":"Organization",
-				"url":"https:\/\/roastandbrew.coffee\/",
-				"sameAs":
-					[
-						"https:\/\/www.facebook.com/roastandbrewcoffee\/",
-						"https:\/\/twitter.com\/roast_n_brew"
-					],
-				"@id":"https:\/\/roastandbrew.coffee\/#organization",
-				"name":"EkoSlask",
-				"logo":"https:\/\/roastandbrew.coffee\/img\/og-roast.jpg"
-			}
-		</script>
 		<script type='text/javascript'>
 			 window.Laravel = <?php echo json_encode([
 				'csrfToken' => csrf_token(),
